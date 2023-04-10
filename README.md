@@ -4,6 +4,8 @@
 # 💫 About Me:
 I am a recent college that majored in Meteorology and minored in Applied Mathematics. My plan is to learn Data Science and Software Development in a combination with Meteorology to become a meteorologist researcher. I would like to help educate the general public on how to best prepare for severe weather and also storm chase to learn how more about what mother nature has to entail.<br><br>Skills:<br>Programming: Web Development | JavaScript | Python | SQL | Git<br>Software: GitHub | Microsoft Visual Studio Code | Microsoft Office Suite<br>Operating System: Windows | Linux<br><br>📫 I am reachable by email pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
+---
+[![](https://visitcount.itsvg.in/api?id=Kyl67899&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kyp.wx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-parsotan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kyle-y-parsotan) 
@@ -17,8 +19,6 @@ I am a recent college that majored in Meteorology and minored in Applied Mathema
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kyl67899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kyl67899&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
