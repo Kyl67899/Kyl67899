@@ -11,16 +11,6 @@ I am currently learning software development. <br><br>Skills:<br>Programming: We
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kyp.wx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyle-parsotan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kyle-y-parsotan) 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kyl67899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kyl67899&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kyl67899&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
