@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋.
+
+### 🌱 I'm currently learning Full-Stack Development to become a Software Developer. I have a couple of projects that I am working on from the Odin-Project. 
+### Visit my profile: https://github.com/Kyl67899 to see some of my projects that I have worked on and some of the forked profiles as well.
+
+### I am a recent college with a Bachelors of Science in Meteorology and minor in Applied Mathematics; I am willing to learn and gain experience.
+
+
+#### 📫 I am reachable by email pars.kyle1@gmail.com or by discord: Met2024#9289.
+#### Please do NOT send me spam emails.
+
 
 <!--
 **Kyl67899/Kyl67899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
