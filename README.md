@@ -1,11 +1,13 @@
 ### Hi there 👋.
 
-### 🌱 I'm currently learning Full-Stack Development to become a Software Developer. I have a couple of projects that I am working on from the Odin-Project. 
-### Visit my profile: https://github.com/Kyl67899 to see some of my projects that I have worked on and some of the forked profiles as well.
+### I am a recent college that majored in a Meteorology and minored in Applied Mathematics. My plan is to learn Data Science and Software Development in combination of Meteorology to become a meteorologist researcher. I would like to help educate the general the public on how to best prepare for severe weather and also storm chase to learn how more about what mother nature has to entail.
 
-### I am a recent college that majored in a Meteorology and minored in Applied Mathematics. My plan is to learn Data Science and Software Development in combination of Meteorology to become a robust researcher. I would like to help educate the general the public on how to better prepare for severe weather and also storm chase.
+###  Skills:
+#### Programming: Web Development | JavaScript | Python | SQL | Git
+#### Software: GitHub | Microsoft Visual Studio Code | Microsoft Office Suite
+#### Operating System: Windows | Linux
 
-#### 📫 I am reachable by email pars.kyle1@gmail.com or by discord: Met2024#9289.
+#### 📫 I am reachable by email pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 #### Please do NOT send me spam emails.
 
 
