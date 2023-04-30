@@ -1,10 +1,10 @@
 # About Me:
 I am currently learning software development. 📫 I am reachable by email pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
-# Education:
-<!--![][(https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)] ![][(https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)] ![][(https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]-->
+<!--# Education:
+![][(https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)] ![][(https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)] ![][(https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]-->
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -14,9 +14,9 @@ I am currently learning software development. 📫 I am reachable by email pars.
 
 <!-- ![Git][(https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)] -->
 
-## 🌐 Socials:
-<!--[![Discord][([https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289)] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/https://www.facebook.com/kyp.wx/)] [![LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kyle-parsotan)] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)(https://stackoverflow.com/users/kyle-y-parsotan)]-->
-
+<!-- ## 🌐 Socials:
+[![Discord][([https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289)] ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kyp.wx/) [![LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kyle-parsotan)] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)(https://stackoverflow.com/users/kyle-y-parsotan)
+ -->
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
