@@ -1,5 +1,5 @@
 # About Me:
-I am currently learning software development. 📫 I am reachable by email pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
+I am making a career switch to become a software developer. 📫 I am reachable by email pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
 <!--# Education:
 ![][(https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)] ![][(https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)] ![][(https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]-->
