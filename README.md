@@ -21,7 +21,7 @@ I am learning Software Engineering. 📫 I am reachable by email pars.kyle1@gmai
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kyl67899&label=GitHub%20Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
