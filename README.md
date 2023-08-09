@@ -2,8 +2,8 @@
 I am a Software Engineer and Meteorologist. I have a Software Engineering: Web Development Certificate. 📫 I am reachable by email at pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
 # Education:
-CUNY QCC Software Engineering: Web Development, 2023
-IBM Web Developer, 2023
+CUNY QCC Software Engineering: Web Development, 2023 /n
+IBM Web Developer, 2023 /n
 B.S. in Meteorology and Minor in Applied Mathematics, 2022
 
 ## 💻 Tech Stack:
