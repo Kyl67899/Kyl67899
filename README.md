@@ -1,8 +1,10 @@
 # About Me:
 I am a Software Engineer and Meteorologist. I have a Software Engineering: Web Development Certificate. 📫 I am reachable by email at pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
-<!--# Education:
-![][(https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)] ![][(https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)] ![][(https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]-->
+# Education:
+CUNY QCC Software Engineering: Web Development, 2023
+IBM Web Developer, 2023
+B.S. in Meteorology and Minor in Applied Mathematics, 2022
 
 ## 💻 Tech Stack:
 
@@ -22,21 +24,3 @@ I am a Software Engineer and Meteorologist. I have a Software Engineering: Web D
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Kyl67899/Kyl67899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
