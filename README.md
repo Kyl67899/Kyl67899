@@ -1,5 +1,5 @@
 # About Me:
-I am a Software Engineer. I have a Software Engineering: Web Development Certificate. 📫 I am reachable by email at pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
+I am a Software Enginee with an IBM Web Development Certificate and a student at FrontEnd Simplified. I am knowledgeable in various programming languages such as HTML/CSS, JS, Python, and SQL. i am looking for an internship or entry-level position as a web developer. 📫 I am reachable by email at pars.kyle1@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
 
 # Education:
 FrontEnd Simplified Student, 2023
