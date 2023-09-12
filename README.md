@@ -11,6 +11,7 @@ IBM Web Developer, 2023
 B.S. in Meteorology and Minor in Applied Mathematics, 2022
 
 Sololearn, 2018 - Present
+
 Web Development with Angular, Python Developer, SQL, JavaScript, HTML, CSS, Responsive Web Design, Jquery
 
 ## 💻 Tech Stack:
