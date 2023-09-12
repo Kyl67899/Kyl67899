@@ -8,7 +8,7 @@ CUNY QCC Software Engineering and AWS, 2023
 
 IBM Web Developer, 2023
 
-B.S. in Meteorology and Minor in Applied Mathematics, 2022
+B.S. in Meteorology and Minor in Applied Mathematics
 
 Sololearn, 2018 - Present
 
