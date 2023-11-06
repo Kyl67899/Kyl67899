@@ -1,7 +1,16 @@
 # About Me:
-I am a Software Engineer with an IBM Web Development Certificate and a student at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, Python, and SQL. I am looking for an internship or entry-level position as a web developer. 📫 I am reachable by email at kyleparsotan@gmail.com or by 👯 discord: Met2024#9289. I am always open to team projects.
+I am a Software Engineer with an IBM Web Development Certificate and a student/Intern at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, Python, and SQL. I am looking for an internship or entry-level position as a web developer. 📫 I am reachable by email at kyleparsotan@gmail.com/ by 👯 discord: Met2024#9289 or by phone 631.790.9799. I am always open to team projects.
 
-My portfolio is https://kyle-parsotan-portfolio.netlify.app
+My portfolio is https://kyle-parsotan-portfolio.vercel.app
+
+The Bike Store - the-bike-store.vercel.app
+
+# Experience:
+Intern, FrontEnd Simplified , 2023
+
+Intern, Virtual Internship, LILLUP, 2023
+
+IT Specialist, Apex Systems, May-October 2023
 
 # Education:
 FrontEnd Simplified Student, 2023
