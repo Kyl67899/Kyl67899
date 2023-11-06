@@ -6,9 +6,9 @@ My portfolio is https://kyle-parsotan-portfolio.vercel.app
 The Bike Store - the-bike-store.vercel.app
 
 # Experience:
-Intern, FrontEnd Simplified , 2023
+Front-End Web Developer Intern, FrontEnd Simplified , 2023
 
-Intern, Virtual Internship, LILLUP, 2023
+Front-End Web Developer Intern, LILLUP, 2023
 
 IT Specialist, Apex Systems, May-October 2023
 
