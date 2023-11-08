@@ -8,8 +8,6 @@ The Bike Store - the-bike-store.vercel.app
 # Experience:
 Front-End Web Developer Intern, FrontEnd Simplified , 2023
 
-Front-End Web Developer Intern, LILLUP, 2023
-
 IT Specialist, Apex Systems, May-October 2023
 
 # Education:
