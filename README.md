@@ -11,6 +11,8 @@ Coming soon -
 
 Landing page -
 
+WeatX and ClimX - 
+
 # Experience:
 Front-End Web Developer Intern, FrontEnd Simplified , 2023
 
