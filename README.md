@@ -1,5 +1,5 @@
 # About Me:
-I am a Software Engineer with an IBM Web Development Certificate and a student/Intern at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, React, React UI, Python, and SQL. I am looking for an internship or entry-level position as a web developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: Met2024#9289 or by phone 631.790.9799. I am always open to team projects.
+I am a Software Engineer with an IBM Web Development and Sofware Engineering Certificate and a student/Intern at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, React, React UI, Python, and SQL. I am looking for an internship or entry-level position as a web developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: Met2024#9289 or by phone 631.790.9799. I am always open to team projects.
 
 # Projects
 
