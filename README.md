@@ -14,22 +14,25 @@ Landing page -
 WeatX and ClimX - 
 
 # Experience:
-Front-End Web Developer Intern, FrontEnd Simplified , 2023
-
-IT Specialist, Apex Systems, May-October 2023
-
-# Education:
-FrontEnd Simplified Student, 2023
-
-CUNY QCC Software Engineering and AWS, 2023
-
-IBM Web Developer, 2023
-
-B.S. in Meteorology and Minor in Applied Mathematics
 
 Sololearn, 2018 - Present
 
 Web Development with Angular, Angular, Python Developer, SQL, JavaScript, HTML, CSS, Responsive Web Design, Jquery
+
+Front-End Web Developer Intern, FrontEnd Simplified, 2023
+
+IT Specialist, Apex Systems, May-October 2023
+
+# Education:
+IBM Software Engineering, 2023
+
+FrontEnd Simplified Student, 2023 - Present
+
+CUNY QCC Software Engineering and AWS, 2023
+
+IBM Web Development, 2023
+
+B.S. in Meteorology and Minor in Applied Mathematics
 
 ## 💻 Tech Stack:
 
