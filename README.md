@@ -46,7 +46,23 @@ B.S. in Meteorology and Minor in Applied Mathematics
 [![Discord][([https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289)] ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kyp.wx/) [![LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kyle-parsotan)] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)(https://stackoverflow.com/users/kyle-y-parsotan)
  -->
 <!--START_SECTION:waka-->
+name: Waka Readme
 
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ waka_2b3d6e00-1279-475e-8a72-d407f5d5cc06 }}
+          <!---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 --->
+          GH_TOKEN: ${{ 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 }}
 <!--END_SECTION:waka-->
 
 # 📊GitHub Stats :
