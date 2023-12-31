@@ -46,6 +46,6 @@ B.S. in Meteorology and Minor in Applied Mathematics
 [![Discord][([https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Met2024#9289)] ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kyp.wx/) [![LinkedIn (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/kyle-parsotan)] [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)(https://stackoverflow.com/users/kyle-y-parsotan)
  -->
 
-# 📊GitHub Stats :
+# 📊GitHub Stats:
 ---
 [![](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
