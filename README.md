@@ -6,29 +6,36 @@ I am a freelance web developer who has 2+ years of experience in frontend engine
 
 # Projects
 The bike store
+<br />
 Coming Soon page
+<br />
 Library app
+<br />
 E-Commerce Website
+<br />
 Weather react app
 
 # Work Experience
 
-Software Developer Intern, Lillup, 2023 - Present
+Software Developer Intern, Lillup, Nov. 2023 - Present
 
-Front-End Web Developer Intern, FrontEnd Simplified, 2023 - 2023
+Front-End Web Developer Intern Oct. 2023 - Nov. 2023
+<br />
+FrontEnd Simplified, 
 
-IT Specialist, Apex Systems, May-October 2023-2023
+IT Specialist, Apex Systems, May - October 2023
 
 # Education:
 IBM React and Fullstack, 2024 - Present
 IBM Software Engineering, 2023 - 2024
 IBM Web Development, 2023
 
-FrontEnd Simplified Student, 2023 - Present
+FrontEnd Simplified Student, Aug. 2023 - Present
 
-CUNY QCC Software Engineering and AWS, 2023 - Present
+CUNY QCC Software Engineering and AWS, July 2023 - Present
 
 Embry-Riddle Aero. University Graduated, 2022
+<br />
 B.S. Meteorology, minor in Applied Mathematics
 
 # 📊GitHub Stats:
