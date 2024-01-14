@@ -2,7 +2,7 @@
 # Hello there! 👋
 
 # About Me:
-I am a freelance web developer who has 2+ years of experience in frontend engineering where I am able to use various frontend technologies. I have gained extensive knowledge through IBM Web Development, Sofware Engineering, React, and Fullstack courses through EDX and coursera and currently a student/Intern at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, React, React UI, Python, and SQL. I am looking for an internship or entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord:  or by phone 631.790.9799. I am always open to team projects and freelancing.
+I am a freelance web developer who has 2+ years of experience in frontend engineering where I am able to use various frontend technologies. I have gained extensive knowledge through IBM Web Development, Sofware Engineering, React, and Fullstack courses through EDX and coursera and currently a student at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, React, React UI, Python, and SQL. I am looking for an internship or entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord:  or by phone 631.790.9799. I am always open to team projects and freelancing.
 
 # Projects
 The bike store
@@ -13,19 +13,23 @@ Weather react app
 
 # Work Experience
 
-Front-End Web Developer Intern, FrontEnd Simplified, 2023
+Software Developer Intern, Lillup, 2023 - Present
 
-IT Specialist, Apex Systems, May-October 2023
+Front-End Web Developer Intern, FrontEnd Simplified, 2023 - 2023
+
+IT Specialist, Apex Systems, May-October 2023-2023
 
 # Education:
-IBM Software Engineering, 2023 - Present
+IBM React and Fullstack, 2024 - Present
+IBM Software Engineering, 2023 - 2024
+IBM Web Development, 2023
 
 FrontEnd Simplified Student, 2023 - Present
 
 CUNY QCC Software Engineering and AWS, 2023 - Present
 
-IBM Web Development, 2023
-
+Embry-Riddle Aero. University Graduated, 2022
+B.S. Meteorology, minor in Applied Mathematics
 
 # 📊GitHub Stats:
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats) --->
