@@ -21,7 +21,7 @@ Software Developer Intern, Lillup, Nov. 2023 - Present
 
 Front-End Web Developer Intern Oct. 2023 - Nov. 2023
 <br />
-FrontEnd Simplified, 
+FrontEnd Simplified
 
 IT Specialist, Apex Systems, May - October 2023
 
