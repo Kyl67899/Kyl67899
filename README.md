@@ -16,6 +16,7 @@ E-Commerce Website
 Weather react app
 <br />
 Projects coming soon
+<br />
 ** Data visualization MERN Weather app **
 
 # Work Experience
