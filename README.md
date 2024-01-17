@@ -14,6 +14,8 @@ Library app
 E-Commerce Website
 <br />
 Weather react app
+<br />
+Data visualization Frontend Weather app
 
 # Work Experience
 
