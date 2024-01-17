@@ -15,7 +15,8 @@ E-Commerce Website
 <br />
 Weather react app
 <br />
-Data visualization Frontend Weather app
+
+** Data visualization Frontend Weather app **
 
 # Work Experience
 
