@@ -17,7 +17,7 @@ Weather react app
 <br />
 Projects coming soon
 <br />
-** Data visualization MERN Weather app **
+** Data visualization using MERN **
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
