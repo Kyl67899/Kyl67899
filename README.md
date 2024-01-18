@@ -40,7 +40,7 @@ FrontEnd Simplified
 IT Specialist, Apex Systems, May - October 2023
 
 # Education:
-IBM React and Fullstack, 2024 - Present
+IBM React, 2024 - Present
 IBM Software Engineering, 2023 - 2024
 IBM Web Development, 2023
 
