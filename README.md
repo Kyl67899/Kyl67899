@@ -33,15 +33,17 @@ Projects coming soon
 
 Software Developer Intern, Lillup, Nov. 2023 - Present
 
-Front-End Web Developer Intern Oct. 2023 - Nov. 2023
+Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 <br />
-FrontEnd Simplified
+
 
 IT Specialist, Apex Systems, May - October 2023
 
 # Education:
 IBM React, 2024 - Present
+<br />
 IBM Software Engineering, 2023 - 2024
+<br />
 IBM Web Development, 2023
 
 FrontEnd Simplified Student, Aug. 2023 - Present
