@@ -37,6 +37,9 @@ Projects coming soon
 
 ### Data Visualization 
   <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="D3" alt="D3" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+
 ### Backend
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
