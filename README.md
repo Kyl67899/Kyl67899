@@ -40,7 +40,7 @@ Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 IT Specialist, Apex Systems, May - October 2023
 
 # Education:
-IBM React, 2024 - Present
+IBM Data Science and Machine Learning using Python and SQl, 2024 - Present
 <br />
 IBM Software Engineering, 2023 - 2024
 <br />
