@@ -43,7 +43,7 @@ Projects coming soon
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
 
 ### Database
-<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="4Bootstrap,
+<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
 
 
 ### Programming
