@@ -18,6 +18,8 @@ Weather react app
 Projects coming soon
 <br />
 ** Data visualization using MERN **
+** Data Visualization using D3.js **
+** Weather Data Visualization using D3.js and Machine Learning **
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
