@@ -21,9 +21,9 @@ Projects coming soon
 <br />
 ** Data visualization using MERN **
 <br />
-** Data Visualization using D3.js **
+<!--- ** Data Visualization using D3.js ** --->
 <br />
-** Weather Data Visualization using D3.js and Machine Learning **
+<!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
