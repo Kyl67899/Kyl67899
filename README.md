@@ -18,7 +18,9 @@ Weather react app
 Projects coming soon
 <br />
 ** Data visualization using MERN **
+<br />
 ** Data Visualization using D3.js **
+<br />
 ** Weather Data Visualization using D3.js and Machine Learning **
 
 # Top Stack:
