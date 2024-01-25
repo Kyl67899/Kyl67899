@@ -73,6 +73,3 @@ B.S. Meteorology, minor in Applied Mathematics
 # 📊GitHub Stats:
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats) --->
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
-
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
