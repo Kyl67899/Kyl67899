@@ -52,7 +52,6 @@ Software Developer Intern, Lillup, Nov. 2023 - Present
 Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 <br />
 
-
 IT Specialist, Apex Systems, May - October 2023
 
 # Education:
@@ -62,9 +61,9 @@ IBM Software Engineering, 2023 - 2024
 <br />
 IBM Web Development, 2023
 
-FrontEnd Simplified Student, Aug. 2023 - Present
+FrontEnd Simplified Student, Aug. 2023 - Jan. 2024
 
-CUNY QCC Software Engineering and AWS, July 2023 - Present
+CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024
 
 Embry-Riddle Aero. University Graduated, 2022
 <br />
