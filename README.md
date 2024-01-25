@@ -2,6 +2,8 @@
 # Hello there! 👋
 
 # About Me:
+My name is Kyle Yarun Parsotan.
+<br />
 I am a frontend developer who has 2+ years of experience where I am able to use various frontend technologies. I have gained extensive knowledge through IBM Web Development, Sofware Engineering, React, and Fullstack courses through EDX and coursera and currently a student at FrontEnd Simplified. I am knowledgeable and proficient in various programming languages such as HTML/CSS, JS, React, React UI, Python, and SQL. I am looking for an internship or entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord:  or by phone 631.790.9799. I am always open to team projects and freelancing.
 
 ![Visitor Count](https://profile-counter.glitch.me/{Kyl67899}/count.svg)
