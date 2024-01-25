@@ -75,4 +75,4 @@ B.S. Meteorology, minor in Applied Mathematics
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Kyl67899&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
