@@ -34,12 +34,6 @@ DSA and Java
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 
-### CSS Framework
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-
-### Data Visualization 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-plain.svg" title="D3" alt="D3" width="40" height="40"/>&nbsp;
-
 ### Backend
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
 
