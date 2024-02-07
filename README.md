@@ -8,6 +8,26 @@ Since I was in High school I have gotten hands on training in web development an
 
 ![Visitor Count](https://profile-counter.glitch.me/{Kyl67899}/count.svg)
 
+# Relevant links
+<a href="https://hyperskill.org/profile/612221581">Portfolio</a>
+
+### Course Profile
+<a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a>
+<a href="https:/">Sololearn Profile</a>
+<a href="https://">Sololearn2 Profile</a>
+<a href="https://">Mimo Profile</a>
+<a href="https://">CodeDamn Profile</a>
+
+### Programming Challenges
+<a href="https://">HackerRank Profile</a>
+<a href="https://">Leetcode Profile</a>
+
+### Data Science
+<a href="https://">Kaggle Profile</a>
+<a href="https://">DataCamp Profile</a>
+
+
+
 # Projects
 The bike store
 <br />
@@ -32,20 +52,22 @@ Projects coming soon
 DSA and Java 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
 
 ### Backend
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJs" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJs" alt="ExpressJs" width="40" height="40" />&nbsp;
+  
 
 ### Database
-<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40" />&nbsp;
 </div>
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
