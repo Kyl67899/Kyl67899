@@ -13,20 +13,18 @@ Since I was in High school I have gotten hands on training in web development an
 
 ### Course Profile
 <a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a>
-<a href="https:/">Sololearn Profile</a>
-<a href="https://">Sololearn2 Profile</a>
-<a href="https://">Mimo Profile</a>
-<a href="https://">CodeDamn Profile</a>
+<a href="https://www.sololearn.com/">Sololearn Profile</a>
+<a href="https://www.sololearn.com/">Sololearn2 Profile</a>
+<a href="https://www.mimo.com/">Mimo Profile</a>
+<a href="https://www.codedamn.com/">CodeDamn Profile</a>
 
 ### Programming Challenges
-<a href="https://">HackerRank Profile</a>
-<a href="https://">Leetcode Profile</a>
+<a href="https://www.hackerrank.com/">HackerRank Profile</a>
+<a href="https://www.leetcode.com/">Leetcode Profile</a>
 
 ### Data Science
-<a href="https://">Kaggle Profile</a>
-<a href="https://">DataCamp Profile</a>
-
-
+<a href="https://www.kaggle.com/">Kaggle Profile</a>
+<a href="https://www.datacamp.com/">DataCamp Profile</a>
 
 # Projects
 The bike store
