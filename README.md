@@ -20,7 +20,7 @@ Since I was in High school I have gotten hands on training in web development an
 
 ### Programming Challenges
 <a href="https://www.hackerrank.com/profile/kyleparsotan">HackerRank Profile</a>
-<a href="https://www.leetcode.com/">Leetcode Profile</a>
+<a href="https://leetcode.com/kyleparsotan/">Leetcode Profile</a>
 
 ### Data Science
 <a href="https://www.kaggle.com/">Kaggle Profile</a>
@@ -46,20 +46,9 @@ Projects coming soon
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
 # Current learning:
+Doing a 30 days of JS
 
-DSA and Java 
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
-
-### Backend
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJs" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJs" alt="ExpressJs" width="40" height="40" />&nbsp;
-  
-
-### Database
-<img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40" />&nbsp;
-</div>
+<a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
