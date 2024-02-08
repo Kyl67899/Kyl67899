@@ -19,7 +19,7 @@ Since I was in High school I have gotten hands on training in web development an
 <a href="https://www.codedamn.com/">CodeDamn Profile</a>
 
 ### Programming Challenges
-<a href="https://www.hackerrank.com/">HackerRank Profile</a>
+<a href="https://www.hackerrank.com/profile/kyleparsotan">HackerRank Profile</a>
 <a href="https://www.leetcode.com/">Leetcode Profile</a>
 
 ### Data Science
