@@ -55,9 +55,9 @@ Completed so far:
 QR Code
 Recipe
 
-#Freelancing:
+# Freelancing
 <a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
-<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork</>
+<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork<a/>
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
