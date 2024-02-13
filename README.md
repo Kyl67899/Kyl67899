@@ -23,7 +23,7 @@ Since I was in High school I have gotten hands on training in web development an
 <a href="https://leetcode.com/kyleparsotan/">Leetcode Profile</a>
 
 ### Data Science
-<a href="https://www.kaggle.com/">Kaggle Profile</a>
+<a href="https://www.kaggle.com/kyleyparsotan">Kaggle Profile</a>
 <a href="https://www.datacamp.com/">DataCamp Profile</a>
 
 # Projects
@@ -49,6 +49,15 @@ Projects coming soon
 Doing a 30 days of JS
 
 <a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
+
+Project challenges from <a href="https://www.frontendmentor.com/kyleparsotan/">Frontend Mentor<a/>
+Completed so far:
+QR Code
+Recipe
+
+#Freelancing:
+<a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
+<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork</>
 
 # Top Stack:
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
