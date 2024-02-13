@@ -53,8 +53,10 @@ Doing a 30 days of JS
 Project challenges from <a href="https://www.frontendmentor.com/kyleparsotan/">Frontend Mentor<a/>
 <br />
 Completed so far:
-QR Code
-Recipe
+<ul>
+  <li>QR Code</li>
+  <li>Recipe</li>
+</ul>
 
 # Freelancing
 <a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
