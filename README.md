@@ -51,6 +51,7 @@ Doing a 30 days of JS
 <a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
 
 Project challenges from <a href="https://www.frontendmentor.com/kyleparsotan/">Frontend Mentor<a/>
+<br />
 Completed so far:
 QR Code
 Recipe
