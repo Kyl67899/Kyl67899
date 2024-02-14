@@ -34,15 +34,15 @@ Since I was in High school I have gotten hands on training in web development an
 | Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | 
+| E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
+| Twitter Clone                                | Mid            | Next, Tailwindcss, JS           | 
+| Netflix Clone                                | Mid            | Next, Tailwindcss, JS           | 
+| Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
 <!-- | Expense Tracker                              | Beginner       | HTML, CSS, JS                   | -->
 <!-- | Time tracker                            | Beginner       | HTML, CSS, JS                   | 
 | Tip Calculator                               | Junior         | HTML, CSS                       | 
 | Pricing Com App                              | Junior         | HTML, CSS                       | 
 | Calculator                                   | Junior         | HTML, CSS, JS                   | -->
-| E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
-| Twitter Clone                                | Mid            | Next, Tailwindcss, JS           | 
-| Netflix Clone                                | Mid            | Next, Tailwindcss, JS           | 
-| Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
 <!--| Weather Data visualization App               | Mid            | Next, Tailwindcss, JS, D3.js    | -->
 
 <!--- ** Data Visualization using D3.js ** --->
