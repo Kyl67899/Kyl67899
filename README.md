@@ -35,8 +35,11 @@ Since I was in High school I have gotten hands-on training in web development an
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | 
 | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
-| Twitter Clone                                | Mid            | Next, Tailwindcss, JS           | 
-| Netflix Clone                                | Mid            | Next, Tailwindcss, JS           | 
+| Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
+| Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
+| Nike Clone                                   | Mid            | Next, Tailwindcss, JS, Firebase           | 
+| Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
+| Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
 | Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
 <!-- | Expense Tracker                              | Beginner       | HTML, CSS, JS                   | -->
 <!-- | Time tracker                            | Beginner       | HTML, CSS, JS                   | 
