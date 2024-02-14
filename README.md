@@ -27,22 +27,26 @@ Since I was in High school I have gotten hands on training in web development an
 <a href="https://www.datacamp.com/">DataCamp Profile</a>
 
 # Projects
-The bike store
-<br />
-Coming Soon page
-<br />
-Library app
-<br />
-E-Commerce Website
-<br />
-Weather react app
-<br />
-Projects coming soon
-<br />
-** Data visualization using MERN and D3.js **
-<br />
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| Bruni Electric                               | Mid            | React, bootstrap, API, CSS      | `In Progress`
+| Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
+| Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
+| Library App                                  | Mid            | React, CSS, HTML                | 
+| Expense Tracker                              | Beginner       | HTML, CSS, JS                   | 
+| Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
+| Tip Calculator                               | Junior         | HTML, CSS                       | 
+| Pricing Com App                              | Junior         | HTML, CSS                       | 
+| Calculator                                   | Junior         | HTML, CSS, JS                   | 
+| Launch Countdown Timer                       | Junior         | HTML, CSS, JS                   | 
+| E-Commerce                                   | Mid            | Next, Tailwindcss, JS           | 
+| Twitter Clone                                | Mid            | Next, Tailwindcss, JS           | 
+| Netflix Clone                                | Mid            | Next, Tailwindcss, JS           | 
+| Weather Dashboard App                        | Mid            | Next, Tailwindcss, JS           | 
+| Weather Data visualization App               | Mid            | Next, Tailwindcss, JS, D3.js    | 
+
 <!--- ** Data Visualization using D3.js ** --->
-<br />
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
 # Current learning:
