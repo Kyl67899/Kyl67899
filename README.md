@@ -33,6 +33,7 @@ Since I was in High school I have gotten hands-on training in frontend developme
 | Bruni Electric                               | Mid            | React, bootstrap, API, CSS      | `In Progress`
 | Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
+| Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | 
 | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
