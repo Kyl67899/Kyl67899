@@ -31,18 +31,19 @@ Since I was in High school I have gotten hands-on training in frontend developme
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Bruni Electric                               | Mid            | React, bootstrap, API, CSS      | `In Progress`
+| tipcalculator                                | Junior         | HTML, CSS, JS                   | `In Progress`
 | Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | 
-| E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
+<!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
 | Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
 | Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
 | Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
-<!-- | Expense Tracker                              | Beginner       | HTML, CSS, JS                   | -->
+ | Expense Tracker                              | Beginner       | HTML, CSS, JS                   | -->
 <!-- | Time tracker                            | Beginner       | HTML, CSS, JS                   | 
 | Tip Calculator                               | Junior         | HTML, CSS                       | 
 | Pricing Com App                              | Junior         | HTML, CSS                       | 
