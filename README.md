@@ -85,9 +85,9 @@ Completed so far:
 
 # Work Experience
 
-Freelancer, Upwork, Jan. 2024 - Present
+<!--- Freelancer, Upwork, Jan. 2024 - Present --->
 
-Software Developer Intern, Lillup, Nov. 2023 - Present
+Software Developer Intern, Lillup, Nov. 2023 - Jan. 2024
 
 Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 <br />
@@ -97,7 +97,7 @@ IT Specialist, Apex Systems, May - October 2023
 # Education:
 EdX IBM Data Science and Machine Learning using Python and SQL, 2024 - Present
 <br />
-EdX IBM React Developer, 2023 -2024
+EdX IBM React Developer, 2023 - 2024
 <br />
 EdX IBM Software Engineering, 2023 - 2024
 <br />
