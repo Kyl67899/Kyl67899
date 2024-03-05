@@ -24,7 +24,7 @@ Since I was in High school I have gotten hands-on training in frontend developme
 
 ### Data Science
 <a href="https://www.kaggle.com/kyleyparsotan">Kaggle Profile</a>
-<a href="https://www.datacamp.com/">DataCamp Profile</a>
+<a href="https://www.datacamp.com/portfolio/parskyle1">DataCamp Profile</a>
 
 # Projects
 
