@@ -69,12 +69,13 @@ Completed so far:
   <li>Tip Caluclator</li>
 </ul>
 
-# Freelancing
+<!--- # Freelancing
 <a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
 <a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork<a/>
 
 # Top Stack:
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) --->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+ --->
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
