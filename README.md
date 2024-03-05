@@ -43,12 +43,12 @@ Since I was in High school I have gotten hands-on training in frontend developme
 | Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
 | Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
 | Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
- | Expense Tracker                              | Beginner       | HTML, CSS, JS                   | -->
-<!-- | Time tracker                            | Beginner       | HTML, CSS, JS                   | 
+ | Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
+| Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
 | Tip Calculator                               | Junior         | HTML, CSS                       | 
 | Pricing Com App                              | Junior         | HTML, CSS                       | 
-| Calculator                                   | Junior         | HTML, CSS, JS                   | -->
-<!--| Weather Data visualization App               | Mid            | Next, Tailwindcss, JS, D3.js    | -->
+| Calculator                                   | Junior         | HTML, CSS, JS                   |
+| Weather Data visualization App               | Mid            | Next, Tailwindcss, JS, D3.js    | -->
 
 <!--- ** Data Visualization using D3.js ** --->
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
@@ -97,8 +97,8 @@ Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 IT Specialist, Apex Systems, May - October 2023
 
 # Education:
-Coursera Frontend Developer to Fullstack Developer, 2024 - Present
 <!--- EdX IBM Data Science and Machine Learning using Python and SQL, 2024 - Present --->
+Coursera Frontend Developer to Fullstack Developer, 2024 - Present
 <br />
 EdX IBM React Developer, 2023 - 2024
 <br />
