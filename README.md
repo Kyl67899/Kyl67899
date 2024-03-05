@@ -31,7 +31,7 @@ Since I was in High school I have gotten hands-on training in frontend developme
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Bruni Electric                               | Mid            | React, bootstrap, API, CSS      | `In Progress`
-| tipcalculator                                | Junior         | HTML, CSS, JS                   | `In Progress`
+| tipcalculator                                | Junior         | HTML, CSS, JS                   | `Completed`
 | Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
