@@ -66,6 +66,7 @@ Completed so far:
   <li>QR Code</li>
   <li>Recipe</li>
   <li>Social Media Profile</li>
+  <li>Tip Caluclator</li>
 </ul>
 
 # Freelancing
