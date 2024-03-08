@@ -34,7 +34,7 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 | Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
-| Library App                                  | Mid            | React, CSS, HTML                | 
+| Library App                                  | Mid            | React, CSS, HTML                | `Completed`
 <!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
