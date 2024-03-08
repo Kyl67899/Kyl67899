@@ -4,18 +4,17 @@
 # About Me:
 My name is Kyle Parsotan.
 <br />
-Since I was in High school I have gotten hands-on training in frontend development and web design using HTML, CSS, JS, Dreamweaver, Photoshop, and WordPress. Ever since then, I started to get into programming Python to enhance my skills. Now I am a frontend developer with 2+ years of experience where I can use various frontend technologies. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: sedev28 or by phone 631.790.9799. I am always open to team projects and freelancing.
-
+Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: sedev28 or by phone 631.790.9799. I am always open to team projects and freelancing.
 
 
 # Relevant links
 <a href="https://kyleparsotanportfolio.vercel.app">Portfolio</a>
 
 ### Course Profile
-<a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a>
+<!-- <a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a> -->
 <a href="https://www.sololearn.com/">Sololearn Profile</a>
 <a href="https://www.sololearn.com/">Sololearn2 Profile</a>
-<a href="https://www.mimo.com/">Mimo Profile</a>
+<!-- <a href="https://www.mimo.com/">Mimo Profile</a> -->
 <a href="https://www.codedamn.com/">CodeDamn Profile</a>
 
 ### Programming Challenges
