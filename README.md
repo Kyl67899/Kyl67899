@@ -4,7 +4,7 @@
 # About Me:
 My name is Kyle Parsotan.
 <br />
-Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: sedev28 or by phone 631.790.9799. I am always open to team projects and freelancing.
+Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, Software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: sedev99 or by phone 631.790.9799. I am always open to team projects and freelancing.
 
 
 # Relevant links
@@ -35,7 +35,7 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 | Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | `Completed`
-| summarist app                                | Mid            | Next, Tailwindcss, HTML, CSS    | `In Progress`
+| Summarist app                                | Mid            | Next, Tailwindcss, HTML, CSS    | `In Progress`
 <!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
