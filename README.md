@@ -90,7 +90,7 @@ Completed so far:
 
 <!--- Freelancer, Upwork, Jan. 2024 - Present --->
 
-Web Development and Data Engineering Intern, LetsGrowMore, March 2024 - Present
+Web Development and data analysis Intern, LetsGrowMore, March 2024 - Present
 
 Software Developer Intern, Lillup, Nov. 2023 - Jan. 2024
 
