@@ -12,10 +12,10 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 
 ### Course Profile
 <!-- <a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a> -->
-<a href="https://www.sololearn.com/">Sololearn Profile</a>
-<a href="https://www.sololearn.com/">Sololearn2 Profile</a>
-<!-- <a href="https://www.mimo.com/">Mimo Profile</a> -->
-<a href="https://www.codedamn.com/">CodeDamn Profile</a>
+<a href="https://www.sololearn.com/en/profile/29890586">Sololearn Profile</a>
+<!-- <a href="https://www.sololearn.com/">Sololearn2 Profile</a>
+<a href="https://www.mimo.com/">Mimo Profile</a> 
+<a href="https://www.codedamn.com/">CodeDamn Profile</a>-->
 
 ### Programming Challenges
 <a href="https://www.hackerrank.com/profile/kyleparsotan">HackerRank Profile</a>
@@ -36,8 +36,8 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | `Completed`
 | Summarist app                                | Mid            | Next, Tailwindcss, HTML, CSS    | `In Progress`
+| Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase | `Completed` 
 <!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
-| Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
 | Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
@@ -45,10 +45,10 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 | Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
  | Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
 | Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
-| Tip Calculator                               | Junior         | HTML, CSS                       | 
+| Tip Calculator                               | Junior         | Next, express.js, MongoDB, firebase, tailwindcss, materialui | 
 | Pricing Com App                              | Junior         | HTML, CSS                       | 
 | Calculator                                   | Junior         | HTML, CSS, JS                   |
-| Weather Data visualization App               | Mid            | Next, Tailwindcss, JS, D3.js    | -->
+| Weather Data visualization App               | Mid            | Next, Tailwindcss, materialui, MongoDB, JS, D3.js    | -->
 
 <!--- ** Data Visualization using D3.js ** --->
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
