@@ -36,13 +36,14 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 | Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
 | Library App                                  | Mid            | React, CSS, HTML                | `Completed`
 | Summarist app                                | Mid            | Next, Tailwindcss, HTML, CSS    | `In Progress`
-| Twitter Clone                                | Mid            | Next, Tailwindcss, JS, Firebase | `Completed` 
+| Twitter Clone                                | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
 <!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
 | Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
 | Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
 | Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
+| Full-stack airbnb App                        | Senior         | Next, Tailwindcss, JS, materialui, express.js, AWS, MongoDB | 
  | Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
 | Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
 | Tip Calculator                               | Junior         | Next, express.js, MongoDB, firebase, tailwindcss, materialui | 
