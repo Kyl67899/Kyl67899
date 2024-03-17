@@ -12,7 +12,7 @@ Frontend developer with 2+ years of experience. Currently a student learning fro
 
 ### Course Profile
 <!-- <a href="https://hyperskill.org/profile/612221581">HyperSkill Profile</a> -->
-<a href="https://www.sololearn.com/en/profile/29890586">Sololearn Profile</a>
+<a href="https://www.sololearn.com/en/profile/29066780">Sololearn Profile</a>
 <!-- <a href="https://www.sololearn.com/">Sololearn2 Profile</a>
 <a href="https://www.mimo.com/">Mimo Profile</a> 
 <a href="https://www.codedamn.com/">CodeDamn Profile</a>-->
