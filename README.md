@@ -4,7 +4,7 @@
 # About Me:
 My name is Kyle Parsotan.
 <br />
-Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at kyleparsotan@gmail.com by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
+Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="emailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
 
 ![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
 
