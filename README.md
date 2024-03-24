@@ -3,27 +3,29 @@
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
-<div align="center">
-    <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Software Engineering specialist at Accenture with Aus/EU citizenship, specializing in fusing software development with operations. My technical range is broad, covering everything from cloud platforms and containerization to CRM systems and 3D modeling.</p>
-</div>
+Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="mailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
 
-<div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
-<div align="center">
+![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
+
+Connect with me:
+  <a href="https://kyleparsotan.co">
+    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/kyle-parsotan">
     <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://linktr.ee/kyleparsotan">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
   </a>
+  
 <a href="https://github.com/Kyl67899/kyl67899" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
-</div>
+
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
@@ -84,7 +86,7 @@ My name is Kyle Parsotan.
 <br />
 Frontend developer with 2+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="mailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
 
-![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
+
 
 # Relevant links
 <a href="https://kyleparsotanportfolio.vercel.app">Portfolio</a>
