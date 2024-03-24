@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C80D0D&random=false&width=435&lines=Hello%2C+My+name+is+Kyle;This+is+my+github" alt="Typing SVG" /></a>
 </div>
 
-Frontend developer with 4+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="mailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
+A unpaid fullstack developer intern at LetGrowMore utilizing my frontend and backend knowledge to create different projects using various technologies. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="mailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
 
 ![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
 
@@ -41,61 +41,61 @@ Connect with me:
 <img src="https://raw.githubusercontent.com/Kyl67899/Kyl67899/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
  </div> -->
 
-<h2 class="section-heading">💻 Programming Languages</h2>
-<!-- <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p> -->
+<!-- <h2 class="section-heading">💻 Programming Languages</h2>
+<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<!--   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/> -->
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-<!--   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> -->
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> 
 
-</div>
+<!-- </div>
 <h2 class="section-heading">☁️ Cloud Technologies</h2>
-<!-- <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p> -->
+<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div >
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<!--   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> -->
-<!--   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/> -->
-<!--   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/> -->
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<!--   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/> -->
-<!--   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/> -->
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
 </div>
 
-<h2 class="section-heading">🔧 Frameworks</h2>
-<!-- <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p> -->
+<!-- <h2 class="section-heading">🔧 Frameworks</h2>
+ <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
 <div >
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<!--   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/> -->
-<!--   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> -->
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/> -->
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<!--   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> -->
 </div>
 
 # Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
-| <a href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
-| <a href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
-| <a href='#'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
-| <a href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
-| <a href='#'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
-| <a href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
-| <a href='#'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
+| <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
+| <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='#'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
+| <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='#'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
+| <a class="link" href='#'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
 <!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
@@ -172,6 +172,5 @@ B.S. Meteorology, minor in Applied Mathematics --->
 # 📊GitHub Stats:
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats) --->
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
-<br />
 ![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true)
+<!-- ![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
