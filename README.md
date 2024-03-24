@@ -21,6 +21,8 @@ Connect with me:
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 
+<a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
+
 <img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
 
 # Current Stack
@@ -87,35 +89,34 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Bruni Electric                               | Mid            | React, bootstrap, API, CSS      | `In Progress`
-| tipcalculator                                | Junior         | HTML, CSS, JS                   | `Completed`
-| Bike Store                                   | Mid            | React, CSS, HTML, Firebase      | `Completed` 
-| Coming Soon Page                             | Beginner       | HTML, CSS, JS                   | `Completed`
-| Social Media Profile                         | Beginner       | HTML, CSS, JS                   | `Completed`
-| Library App                                  | Mid            | React, CSS, HTML                | `Completed`
-| Summarist app                                | Mid            | Next, Tailwindcss, HTML, CSS    | `In Progress`
-| Twitter Clone                                | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
-<!-- | E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
-| Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
-| Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
-| Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
-| Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
-| Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
-| Full-stack airbnb App                        | Senior         | Next, Tailwindcss, JS, materialui, express.js, AWS, MongoDB | 
- | Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
-| Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
-| Tip Calculator                               | Junior         | Next, express.js, MongoDB, firebase, tailwindcss, materialui | 
-| Pricing Com App                              | Junior         | HTML, CSS                       | 
-| Calculator                                   | Junior         | HTML, CSS, JS                   |
-| Weather Data visualization App               | Mid            | Next, Tailwindcss, materialui, MongoDB, JS, D3.js    | -->
+| <a href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
+| <a href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
+| <a href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
+| <a href='#'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
+| <a href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a href='#'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
+| <a href='#'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
+<!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
+| <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
+| <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
+| <a href=''> Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
+| <a href=''> Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
+| <a href=''> Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
+| <a href=''> Full-stack airbnb App                        | Senior         | Next, Tailwindcss, JS, materialui, express.js, AWS, MongoDB | 
+ | <a href=''> Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
+| <a href=''> Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
+| <a href=''> Tip Calculator                               | Junior         | Next, express.js, MongoDB, firebase, tailwindcss, materialui | 
+| <a href=''> Pricing Com App                              | Junior         | HTML, CSS                       | 
+| <a href=''> Calculator                                   | Junior         | HTML, CSS, JS                   |
+| <a href=''> Weather Data visualization App               | Mid            | Next, Tailwindcss, materialui, MongoDB, JS, D3.js    | -->
 
 <!--- ** Data Visualization using D3.js ** --->
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
 # Current learning:
-Doing a 30 days of JS
 
-<a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
+
 
 Project challenges from <a href="https://www.frontendmentor.com/kyleparsotan/">Frontend Mentor<a/>
 <br />
@@ -172,3 +173,6 @@ B.S. Meteorology, minor in Applied Mathematics --->
 # 📊GitHub Stats:
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats) --->
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
+<br />
+![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true)
