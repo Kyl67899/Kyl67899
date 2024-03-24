@@ -1,6 +1,5 @@
 <div>
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Kyle;This+is my+Github..;" alt="Typing SVG"/></h1>
-    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello%2C+My+name+is+Kyle;This+is+my+github" alt="Typing SVG" /></a>
 </div>
 
 Frontend developer with 4+ years of experience. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at <a href="mailto:kyleparsotan@gmail.com">Email</a> by 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
