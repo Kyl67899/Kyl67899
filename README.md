@@ -17,6 +17,8 @@ Connect with me:
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 
+<br />
+
 <a href="kyleparsotan.co" target="_blank">
 Website
 </a>
