@@ -13,7 +13,7 @@ Connect with me:
   </a>
   
   <a href="kyleparsotan.co" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" alt="Linktree"/>
+    Website
   </a>
   
 <a href="https://github.com/Kyl67899/kyl67899" target="_blank">
