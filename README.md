@@ -97,11 +97,11 @@ Connect with me:
 | <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
 | <a class="link" href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='#'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
+| <a class="link" href='thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
-| <a class="link" href='#'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
+| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
 <!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
