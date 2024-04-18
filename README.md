@@ -19,7 +19,7 @@ Connect with me:
 
 <br />
 
-<a href="kyleparsotan.co" target="_blank">Website </a>
+<a href="https://kyleparsotanprofile.vercel.app" target="_blank">Website </a>
 
 <a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
 
