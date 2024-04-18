@@ -96,7 +96,7 @@ Connect with me:
 | --- | --- | --- | --- |
 | <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='https://tip-calc12.vercel.app'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
