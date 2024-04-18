@@ -99,7 +99,7 @@ Connect with me:
 | <a class="link" href='#'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='#'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
 | <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
 <!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
