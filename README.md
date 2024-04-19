@@ -123,7 +123,7 @@ Connect with me:
 
 
 
-Project challenges from <a href="https://www.frontendmentor.com/kyleparsotan/">Frontend Mentor<a/>
+Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl67899">Frontend Mentor<a/>
 <br />
 Completed so far:
 <br />
