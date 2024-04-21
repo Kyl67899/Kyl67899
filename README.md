@@ -125,8 +125,8 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Flower </a>              | Begineer            | Python, ML      | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Begineer            | Python, ML, KNN    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Flower </a>              | Beginner            | Python, ML      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Beginner            | Python, ML, KNN    | `In Progress`
 <!--- | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
 | <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
