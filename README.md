@@ -96,12 +96,14 @@ Connect with me:
 | --- | --- | --- | --- |
 | <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `In progress` 
 | <a class="link" href='https://tip-calc12.vercel.app'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
-| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed` 
+| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
+
 <!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
 | <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
@@ -123,8 +125,8 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'> Flower </a>              | Begineer            | Python, ML      | `In Progress`
-| <a class="link" href='#'> Stock Market Prediction </a>              | Begineer            | Python, ML, KNN    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Flower </a>              | Begineer            | Python, ML      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Begineer            | Python, ML, KNN    | `In Progress`
 <!--- | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
 | <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
