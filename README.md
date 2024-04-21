@@ -90,7 +90,7 @@ Connect with me:
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> -->
 </div>
 
-# Projects
+# Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
@@ -119,9 +119,18 @@ Connect with me:
 <!--- ** Data Visualization using D3.js ** --->
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
+# Data Science Projects
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href='#'> Flower </a>              | Begineer            | Python, ML      | `In Progress`
+| <a class="link" href='#'> Stock Market Prediction </a>              | Begineer            | Python, ML, KNN    | `In Progress`
+<!--- | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
+| <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+| <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+--->
+
 # Current learning:
-
-
 
 Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl67899">Frontend Mentor<a/>
 <br />
