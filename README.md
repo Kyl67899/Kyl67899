@@ -132,6 +132,28 @@ Connect with me:
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 --->
 
+<!--- # Java Projects
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Flower </a>              | Beginner            | Python, ML algorithm      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Beginner            | Python, ML algorithm    | `In Progress`
+| <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
+| <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+| <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+--->
+
+<!--- # C++ Projects
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Flower </a>              | Beginner            | Python, ML algorithm      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Beginner            | Python, ML algorithm    | `In Progress`
+| <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
+| <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+| <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
+--->
+
 # Current learning:
 
 Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl67899">Frontend Mentor<a/>
