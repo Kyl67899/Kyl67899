@@ -125,10 +125,9 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner            | Python, ML algorithm      | `Completed`
-
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a>              | Beginner            | Python, ML algorithm    | `Completed`
-|<a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner            | Python, ML algorithm    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner | Python, ML algorithm | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a> | Beginner | Python, ML algorithm | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `Completed`
 
 
