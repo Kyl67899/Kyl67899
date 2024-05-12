@@ -104,7 +104,7 @@ Connect with me:
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
 | <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
 
-<!-- | <a href=''> E-Commerce                                   | Mid            | Next, Tailwindcss, JS, Firebase | 
+<!-- | <a href=''> E-Commerce                                   | Senior            | Next, Tailwindcss, JS, Firebase | 
 | <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
 | <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
 | <a href=''> Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
@@ -127,7 +127,7 @@ Connect with me:
 | --- | --- | --- | --- |
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a> | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `In Progress`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
 
