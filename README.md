@@ -1,4 +1,4 @@
-<div>
+i <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C80D0D&random=false&width=435&lines=Hello%2C+My+name+is+Kyle;This+is+my+github" alt="Typing SVG" /></a>
 </div>
 
@@ -127,7 +127,7 @@ Connect with me:
 | --- | --- | --- | --- |
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a> | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `Completed`
 <!--- | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
 
