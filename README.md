@@ -166,13 +166,15 @@ Connect with me:
 Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl67899">Frontend Mentor<a/>
 <br />
 Completed so far:
-<br />
-<ul>
-  <li>QR Code</li>
-  <li>Recipe</li>
-  <li>Social Media Profile</li>
-  <li>Tip Caluclator</li>
-</ul>
+
+# Frontend Mentor Web Development Projects
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href='#'> QR Code </a>              | Mid            | React, bootstrap, API, CSS      | `In Progress`
+| <a class="link" href='#'> Recipe </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Social Media Profile </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `In progress` 
+| <a class="link" href='https://tip-calc12.vercel.app'> Tip Caluclator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
 <!--- # Freelancing
 <a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
