@@ -211,11 +211,7 @@ EdX IBM Web Development, 2023
 
 FrontEnd Simplified Student, Aug. 2023 - Jan. 2024
 
-CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024
-
-Embry-Riddle Aero. University Graduated, 2022
-<br />
-B.S. Meteorology, minor in Applied Mathematics --->
+CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
 
 # 📊GitHub Stats:
 <!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats) --->
