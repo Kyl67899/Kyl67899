@@ -171,9 +171,9 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'> QR Code </a>              | Mid            | React, bootstrap, API, html, CSS      | `In Progress`
-| <a class="link" href='https://recipe--page.vercel.app'> Recipe </a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Social Media Profile </a>    | Mid            | Next, Firebase, Materialui, Tailwindcss, JS | `In progress` 
+| <a class="link" href='#'> QR Code </a>              | Mid            | React, bootstrap, API, html, CSS      | `Completed`
+| <a class="link" href='https://recipe--page.vercel.app'> Recipe </a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Social Media Profile </a>    | Mid            | Next, Firebase, Materialui, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'> Tip Caluclator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
 <!--- # Freelancing
