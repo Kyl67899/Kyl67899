@@ -128,9 +128,9 @@ Connect with me:
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a> | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Sales </a>              | Beginner | Python, ML algorithm | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Sales </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> HR </a>              | Beginner | Python, ML algorithm | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Diabetes </a>              | Beginner | Python, ML algorithm | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Diabetes </a>              | Beginner | Python, ML algorithm | `Completed`
 <!--- | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
 
