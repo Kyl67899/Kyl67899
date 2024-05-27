@@ -174,6 +174,11 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
+| <a class="link" href='#'> Contact Form </a>              | JR            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='#'> Todo App </a>              | JR            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='#'> Time Tracker Dashboard </a>              | JR            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='#'> E-Commerce Product </a>              | JR            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='#'> Crowd Funding </a>              | JR            | HTML, CSS, JS      | `In Progress`
 | <a class="link" href='#'> QR Code </a>              | Mid            | React, bootstrap, API, html, CSS      | `Completed`
 | <a class="link" href='https://recipe--page.vercel.app'> Recipe </a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
 | <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>    | Mid            | Next, Firebase, Materialui, Tailwindcss, JS | `Completed` 
