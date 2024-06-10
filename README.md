@@ -3,7 +3,7 @@
 </div>
 
 A web and data developer intern at LetGrowMore utilizing my frontend and backend knowledge to create different projects using various technologies. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, React, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
-<a href="">Hire a Developer</a> or on 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone I am always open to team projects and freelancing.
 
 ![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
 
