@@ -167,7 +167,7 @@ Connect with me:
 
 # Current learning:
 
-Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl67899">Frontend Mentor<a/>
+Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl6789">Frontend Mentor<a/>
 <br />
 Completed so far:
 
