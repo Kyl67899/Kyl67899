@@ -138,7 +138,7 @@ Connect with me:
 <!--- | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
 
- | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
+| <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
 | <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 --->
@@ -223,7 +223,7 @@ FrontEnd Simplified Student, Aug. 2023 - Jan. 2024
 CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
 
 # 📊GitHub Stats:
-<!--- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyl67899)](https://git.io/streak-stats)
 ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
 ![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
+![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true)
