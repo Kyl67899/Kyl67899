@@ -99,7 +99,7 @@ Connect with me:
 | <a class="link" href='#'> Todo app </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `In progress`
 | <a class="link" href='#'> Contact Form </a>                                 | Junior            | HTML, CSS, JS    | `Completed`
-| <a class="link" href="https://recipe--page.vercel.app">Recipe App</a> | Mid | API, React, tailwindcss, JS | `Complete`
+| <a class="link" href="https://recipe--page.vercel.app">Recipe App</a> | Mid | API, React, tailwindcss, JS | `Completed`
 | <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `Completed`
 | <a class="link" href='https://tip-calc12.vercel.app'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
