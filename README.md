@@ -95,6 +95,7 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
+| <a class="link" href='#'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Todo app </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `In progress`
@@ -175,6 +176,7 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
+| <a class="link" href='#'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Todo App </a>              | Junior           | HTML, CSS, bootstrap JS      | `In Progress`
 | <a class="link" href='#'> Time Tracker Dashboard </a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'> E-Commerce Product </a>              | Junior            | HTML, CSS, JS      | `In Progress`
