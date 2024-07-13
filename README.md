@@ -176,7 +176,7 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
+| <a class="link" href='https://blog-card-profile.vercel.app/'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Todo App </a>              | Junior           | HTML, CSS, bootstrap JS      | `In Progress`
 | <a class="link" href='#'> Time Tracker Dashboard </a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'> E-Commerce Product </a>              | Junior            | HTML, CSS, JS      | `In Progress`
