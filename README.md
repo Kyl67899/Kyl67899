@@ -95,18 +95,19 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
+| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | React, JS, Bootstrap     | `In Progress`
 | <a class="link" href='#'> Todo app </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `In progress`
-| <a class="link" href='https://blog-card-profile.vercel.app/'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
-| <a class="link" href="https://recipe--page.vercel.app">Recipe App</a> | Mid | API, React, tailwindcss, JS | `Completed`
 | <a class="link" href='#'> Bruni Electric </a>              | Mid            | React, bootstrap, API, CSS      | `Completed`
+| <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `Completed`
+| <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
+| <a class="link" href="https://recipe--page.vercel.app">Recipe App</a>                  | Mid                 | API, React, tailwindcss, JS     | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'> Contact Form </a>                                 | Junior            | HTML, CSS, JS    | `Completed`
 | <a class="link" href='https://tip-calc12.vercel.app'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
-| <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
 | <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
 
 <!-- | <a href=''> E-Commerce                                   | Senior            | Next, Tailwindcss, JS, Firebase | 
@@ -176,15 +177,17 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
+| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | React, JS, Bootstrap     | `In Progress`
 | <a class="link" href='#'> Todo App </a>              | Junior           | HTML, CSS, bootstrap JS      | `In Progress`
 | <a class="link" href='#'> Time Tracker Dashboard </a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'> E-Commerce Product </a>              | Junior            | HTML, CSS, JS      | `In Progress`
 | <a class="link" href='#'> Crowd Funding </a>              | Junior            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/ProductCard'> Product Card </a>              | Junior           | HTML, CSS      | `Completed`
 | <a class="link" href='https://blog-card-profile.vercel.app/'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'> Contact Form </a>              | Junior            | HTML, CSS, JS      | `Completed`
 | <a class="link" href='#'> QR Code </a>              | Mid            | React, bootstrap, API, html, CSS      | `Completed`
 | <a class="link" href='https://recipe--page.vercel.app'> Recipe </a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
-| <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>    | Mid            | Next, Firebase, Materialui, Tailwindcss, JS | `Completed` 
+| <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>    | Mid            | React, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'> Tip Caluclator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
 <!--- # Freelancing
