@@ -26,6 +26,11 @@ Connect with me:
 
 <img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
 
+# Hire a Developer
+
+<a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra Freelancer<a/>
+<a href="">Upwork Freelancer<a/>
+
 # Current Stack
 
 <div>
