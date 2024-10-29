@@ -28,7 +28,7 @@ Connect with me:
 
 # Hire a Developer
 
-<div class="contra-hire-me-button" data-analyticsUserId="8837cf15-b034-4674-a91f-7f30828549f8" data-theme="light" data-username="kyleparsotan_aiasd94z"></div>
+<a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra Profile<a/>
 <a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork Freelancer<a/>
 
 # Current Stack
