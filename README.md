@@ -20,7 +20,7 @@ Connect with me:
 
 <br />
 
-<a href="https://kyleparprofile.vercel.app" target="_blank">Website </a>
+<a href="https://kyleparprofile.vercel.app" target="_blank">Website</a>
 
 <a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
 
