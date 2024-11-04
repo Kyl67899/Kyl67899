@@ -12,8 +12,7 @@ Connect with me:
 <a href="https://www.linkedin.com/in/kyle-parsotan" target="_blank">
     <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-  
-  
+
 <a href="https://github.com/Kyl67899/kyl67899" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
