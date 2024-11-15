@@ -2,6 +2,10 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C80D0D&random=false&width=435&lines=Hello%2C+My+name+is+Kyel;This+is+my+github" alt="Typing SVG" /></a>
 </div>
 
+<div>
+    <p> Analyzing someone</p>
+</div>
+
 A frontend developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone I am always open to team projects and freelancing. 
 
