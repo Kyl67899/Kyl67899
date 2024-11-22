@@ -1,5 +1,5 @@
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C80D0D&random=false&width=435&lines=Hi%+My+name+is+Kyel;This+is+my+github profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Kyle.+This+is+my+github+profile.+Any+Questions%3F" alt="Typing SVG" /></a>
 </div>
 
 My name is Kyel. This is my gothub profile.
