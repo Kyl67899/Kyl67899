@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Kyle P.+This+is+my+github+profile.+Any+Questions%3F" alt="Typing SVG" /></a>
 </div>
 
-Any Questions? Not much of a python developer
+Any Questions?
 
 A frontend developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, DSA, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone or visit my website below for my resume. I am always open to working with open-source, individual, or team projects and freelancing. 
