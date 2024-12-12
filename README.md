@@ -1,5 +1,9 @@
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello, my+name+is+Kyle P.+This+is+my+github+profile.+Any+Questions%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,my+name+is+Kyle P." alt="Typing SVG" /></a>
+</div>
+
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+my+github+profile.+Any+Questions%3F" alt="Typing SVG" /></a>
 </div>
 
 Any Questions?
