@@ -200,7 +200,6 @@ Completed so far:
 | <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Mid            | React, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'>Tip Caluclator</a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
-
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
