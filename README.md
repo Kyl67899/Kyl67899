@@ -207,7 +207,7 @@ Completed so far:
 | --- | --- | --- | --- |
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab1'>Lab1 - Basic of HTML</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab2'>Lab2 - Sematic HTML, list, other tags</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab3'>Lab3 - Basic paghe markup and tables tags</a> | Beginner            | HTML, CSS    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/webdev_lab3'>Lab3 - Basic page markup and tables tags</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://kyl67899.github.io/webDev_Project1/index.html'>Project 1 - Basic HTML Project</a> | Beginner            | HTML    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab4'>Lab4 - Putting everything together (nav, div, tables, other tags)</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab5'>Lab5 - HTML Form</a> | Beginner            | HTML, CSS    | `Completed`
