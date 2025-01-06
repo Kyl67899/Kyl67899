@@ -135,7 +135,7 @@ Connect with me:
 <!--- ** Data Visualization using D3.js ** --->
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
-<!--- # Data Science Projects
+# Data Science and psychoogy Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
@@ -147,11 +147,11 @@ Connect with me:
 | <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Diabetes </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
-
- | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
+<!--- 
+| <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
 | <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas
---->
+-->
 
 
 <!--- # Java Projects
