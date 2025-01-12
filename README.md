@@ -136,6 +136,7 @@ Connect with me:
 <!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
 
 # Data Sciece and psychoogy Projects
+### not building any company
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
