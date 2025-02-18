@@ -113,7 +113,7 @@ Connect with me:
 | <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href="https://recipe--page.vercel.app">Recipe App</a>                  | Mid                 | API, React, tailwindcss, JS     | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'> Contact Form </a>                                 | Junior            | HTML, CSS, JS    | `Completed`
-| <a class="link" href='https://tip-calc12.vercel.app'> tipcalculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='https://tip-calc12.vercel.app'> Tip Calculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
 | <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
