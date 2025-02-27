@@ -133,7 +133,7 @@ Connect with me:
 | <a href=''> Weather Data visualization App               | Mid            | Next, Tailwindcss, materialui, MongoDB, JS, D3.js    | -->
 
 <!--- ** Data Visualization using D3.js ** --->
-<!--- ** Weather Data Visualization using D3.js and Machine Learning ** -->
+<!--- ** Weather Data Visualization using D3.js and Machine Learning ** 
 
 # Data Sciece and psychoogy projects
 
@@ -147,7 +147,7 @@ Connect with me:
 | <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Diabetes </a>              | Beginner | Python, ML algorithm | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
 
-<!--- 
+
 | <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
 | <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas
