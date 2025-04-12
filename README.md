@@ -189,6 +189,7 @@ https://github.com/Kyl67899/lgmvip-web
 | <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | Java | `In Progress`  
 | <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | Java, React, JS, Bootstrap | `In Progress`
 
+<!---
 # C++ Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
@@ -197,6 +198,7 @@ https://github.com/Kyl67899/lgmvip-web
 | <a class="link" href=''> Calculator </a>              | Beginner            | C++    | `In Progress`
 | <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | C++ | `In Progress`  
 | <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | C++ | `In Progress`
+--->
 
 # Current learning:
 
