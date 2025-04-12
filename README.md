@@ -153,6 +153,25 @@ Connect with me:
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas
 -->
 
+This repository was made to maintain all task during the virtual internship. The 4 task were completed with Python.
+
+Iris Classification using Machine learning
+Video: Video
+
+Slide: Iris Analysis
+
+Stock Market prediction and forecasting using stack LSTM
+Video: Video
+
+Slide: Stock Market Analysis
+
+Exploratory Data Analysis on Dataset - Terrorism
+Video: Iris Analysis
+
+Slide: Terrorism Analysis
+
+Visit the Web Developmet part of this internship:
+https://github.com/Kyl67899/lgmvip-web
 
 # Java Projects
 
@@ -171,7 +190,6 @@ Connect with me:
 | <a class="link" href=''> Calculator </a>              | Beginner            | C++    | `In Progress`
 | <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | C++ | `In Progress`  
 | <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | C++ | `In Progress`
-
 
 # Current learning:
 
