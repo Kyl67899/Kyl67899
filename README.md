@@ -162,14 +162,14 @@ This repository was made to maintain all task during the virtual internship. The
 ### Iris Classification using Machine learning
   Video: <a href="https://youtu.be/z6QZrVJBcMk"> Video </a>
  
-  Slide: <a href="">Iris Analysis</a>
+  Slide: <a href="https://github.com/Kyl67899/lgmvip-data-science">Iris Analysis</a>
 ### Stock Market prediction and forecasting using stack LSTM
   Video: <a href="https://www.youtube.com/watch?v=pfHUPqNPlaI&t=8s"> Video </a>
   
-  Slide: <a href="">Stock Market Analysis</a>
+  Slide: <a href="https://github.com/Kyl67899/lgmvip-data-science">Stock Market Analysis</a>
   
 ### Exploratory Data Analysis on Dataset - Terrorism
-  Video: <a href="">Iris Analysis</a>
+  Video: <a href="https://github.com/Kyl67899/lgmvip-data-science">Iris Analysis</a>
   
   Slide: <a href="https://docs.google.com/presentation/d/12oy78qNqJVNbletwRlaEH8_csYeMlpoO1KtTyXGwsI0/edit?usp=sharing">Terrorism Analysis</a>
 
