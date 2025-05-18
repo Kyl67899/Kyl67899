@@ -211,16 +211,18 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'>FullStack Recipe</a>                                 | Mid            | Next, API, Firebase, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/4CardFeature'>Four Card Feature</a>              | Junior           | React, JS, Bootstrap     | `In Progress`
-| <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, React, Firebase, Bootstrap      | `In Progress`
+| <a class="link" href='#'>FullStack Recipe</a>                                 | Mid            | Next, API, Firebase/postgresql, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/4CardFeature'>Four Card Feature</a>              | Junior           | next, JS, Bootstrap     | `In Progress`
+| <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, next, Firebase, Tailwindcss      | `In Progress`
 | <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'>E-Commerce Product</a>              | Junior            | HTML, CSS, JS      | `In Progress`
 | <a class="link" href='#'>Crowd Funding</a>              | Junior            | HTML, CSS, JS      | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | React, JS, Bootstrap     | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/ProductCard'>Product Card</a>              | Junior           | HTML, CSS      | `Completed`
 | <a class="link" href='https://blog-card-profile.vercel.app/'>Blog Card</a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'>Contact Form</a>              | Junior            | HTML, CSS, JS      | `Completed`
-| <a class="link" href='#'>QR Code</a>              | Mid            | React, bootstrap, html, CSS      | `Completed`
+| <a class="link" href='#'>QR Code</a>              | Junior            | React, bootstrap, html, CSS      | `Completed`
 | <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
 | <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Mid            | React, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'>Tip Caluclator</a>                                | Junior         | HTML, CSS, JS                   | `Completed`
