@@ -103,11 +103,12 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'> Todo app </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `In Progress`
+| <a class="link" href='#'> Todo app </a>                                 | mid            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
 | <a class="link" href='https://electricalwebsite.vercel.app'> Power Pro Electrical </a>              | Mid            | Next, Tailwindcss, resend, HTML, CSS, Firebase     | `Completed`
 | <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `In Progress`
 | <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | React, JS, Bootstrap     | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `Completed`
 | <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
