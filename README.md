@@ -212,7 +212,6 @@ Completed so far:
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | <a class="link" href='#'>FullStack Recipe</a>                                 | Mid            | Next, API, Firebase/postgresql, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/4CardFeature'>Four Card Feature</a>              | Junior           | next, JS, Bootstrap     | `In Progress`
 | <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, next, Firebase, Tailwindcss      | `In Progress`
 | <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'>E-Commerce Product</a>              | Junior            | HTML, CSS, JS      | `In Progress`
