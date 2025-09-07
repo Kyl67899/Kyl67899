@@ -103,8 +103,8 @@ Connect with me:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'> Strip Clone Fullsatck with ML </a>                                 | Expert            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
-| <a class="link" href='#'> Strip Clone Landing Page </a>                                 | Expert            | Next, React, Tailwindcss, Resend    | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Strip Clone Fullsatck with ML </a>                                 | Expert            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | Expert            | Next, React, Tailwindcss, Resend    | `In Progress`
 | <a class="link" href='#'> Todo app </a>                                 | mid            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
 | <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `Completed`
