@@ -1,28 +1,51 @@
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://git.io/typing-svg"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Kyle+Parsotan+👋;Fullstack+Developer+%7C+ML+Learner+%7C+Open+Source+Contributor" alt="Typing SVG" /> 
   </a> 
-</div>
+</div> -->
 
 <!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone or visit my website below for my resume. I am always open to working with open-source, individual projects and freelancing. -->
 
-👨‍💻 About Me
-I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like Next.js, TailwindCSS, Firebase, and Python.
+<h1>👨‍💻 About Me</h1>
+I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like React, HTML, CSS, Shadnui, MUI, Next.js, TailwindCSS, MongoDB, Firebase, and Python.
 
-🎓 Currently learning:
+<div style="display: flex">
+   <div class="leftCol">
+     <h4>
+       🎓 Currently learning:
+     </h4>
+     <ul>
+       <li>
+         Frontend & Backend Engineering
+       </li>
+       <li>
+         Machine Learning & Data Science
+       </li>
+       <li>
+         Python & Java
+       </li>
+     </ul>
+   </div>
+   <div class="rightCol">
+     <h4>
+       💡 Proficient in:
+     </h4>
+     <ul>
+       <li>
+         Frontend & Backend Engineering
+       </li>
+       <li>
+         Machine Learning & Data Science
+       </li>
+       <li>
+         Python & Java
+       </li>
+     </ul>
+   </div>
+</div>
 
-Frontend & Backend Engineering
-
-Machine Learning & Data Science
-
-Python & Java
-
-💡 Proficient in:
-
-HTML, CSS, TailwindCSS, Bootstrap
-
-JavaScript, Next.js, Python, SQL
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📌 Seeking entry-level roles as:
 
@@ -32,23 +55,29 @@ Software Engineer
 
 Frontend/Fullstack Developer
 
-![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Connect with me:
-  
+📫 Contact Me
+
 <a href="https://www.linkedin.com/in/kyle-parsotan" target="_blank">
     <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/Kyl67899/kyl67899" target="_blank">
+📄 <a href="">Hire Me Form</a>
+
+💬 Discord: sedev99
+
+🌐 <a href="https://kylepprofile.dev">Website</a>
+
+<a href="https://github.com/Kyl67899" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 
-<br />
+🧠 <a href="https://leetcode.com/kyleparsotan/">LeetCode</a>
 
-<a href="https://kylepprofile.vercel.app" target="_blank">Website</a>
+💼 <a href="">Contra Profile</a>
 
-<a href="https://leetcode.com/kyleparsotan/">LeetCode<a/>
+🧑‍💻 <a href="">Fiverr</a> <a href="https://www.freelancer.com/u/WebDev764">Freelancer</a>
 
 <img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
 
@@ -65,84 +94,35 @@ Connect with me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="next" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="next" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="next" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="next" width="40" height="40"/>&nbsp; -->
-</div>
-
-<!-- <div align="center">
-   <h2>🚀 Github Commits</h2> 
-<p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p> 
-<img src="https://raw.githubusercontent.com/Kyl67899/Kyl67899/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
- </div> -->
-
-<!-- <h2 class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/YAML-0A0A0A?style=for-the-badge" alt="YAML"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/> 
-
-<!-- </div>
-<h2 class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
-<div >
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
-</div>
-
-<!-- <h2 class="section-heading">🔧 Frameworks</h2>
- <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
-<div >
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> -->
 </div>
 
 # Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Strip Clone Fullsatck with ML </a>                                 | intermediate            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | intermediate            | Next, React, Tailwindcss, Framer motion   | `In Progress`
-| <a class="link" href='#'> Todo app </a>                                 | mid            | HTML, CSS, JS, Tailwindcss    | `In Progress`
-| <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Stripe Clone Fullsatck with ML </a>                                 | Senior            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | Mid            | Next, React, Tailwindcss, Framer motion   | `In Progress`
+| <a class="link" href='#'> Todo app </a>                                 | Mid            | HTML, CSS, JS, Tailwindcss    | `In Progress`
+| <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS, TS    | `In Progress`
 | <a class="link" href='https://electricalwebsite.vercel.app'> Power Pro Electrical </a>              | Mid            | Next, Tailwindcss, resend, HTML, CSS, Firebase     | `Completed`
-| <a class="link" href='#'> Coming Soon Page </a>                              | Beginner       | HTML, CSS, JS                   | `Completed`
 | <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | html, css     | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `Completed`
-| <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href="https://recipe--page.vercel.app">Recipe App</a>                  | Mid                 | API, React, tailwindcss, JS     | `Completed`
+| <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
+| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `Completed`
+| <a class="link" href='#'> Coming Soon Page </a>                              | Junior       | HTML, CSS, JS                   | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | html, css     | `Completed`
+| <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'> Contact Form </a>                                 | Junior            | HTML, CSS, JS    | `Completed`
 | <a class="link" href='https://tip-calc12.vercel.app'> Tip Calculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
-| <a class="link" href='https://sociallinkprofile.vercel.app'> Social Media Profile </a>                          | Beginner       | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
+| <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>                          | Junior       | HTML, CSS, JS                   | `Completed`
 
 <!-- | <a href=''> E-Commerce                                   | Senior            | Next, Tailwindcss, JS, Firebase | 
 | <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
@@ -180,7 +160,6 @@ Connect with me:
 -->
 
 # LetsGrowMore - Data Science
-
 ____________________________________________________________________________________________________
 
 This repository was made to maintain all task during the virtual internship. The 4 task were completed with Python.
@@ -212,7 +191,7 @@ https://github.com/Kyl67899/lgmvip-web
 | <a class="link" href=''> Todo App </a>              | Beginner            | Java      | `In Progress`
 | <a class="link" href=''> Calculator </a>              | Beginner            | Java    | `In Progress`
 | <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | Java | `In Progress`  
-| <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | Java, React, JS, Bootstrap | `In Progress`
+| <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | Java, springboot, React, JS, Bootstrap | `In Progress`
 
 <!---
 # C++ Projects
@@ -235,8 +214,9 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'>FullStack Recipe</a>                                 | Mid            | Next, API, Firebase/postgresql, Tailwindcss, HTML, CSS    | `In Progress`
-| <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, next, Firebase, Tailwindcss      | `In Progress`
+| <a class="link" href='#'>FullStack Recipe</a>                                 | Advanced            | Next, API, AWS/postgresql, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
+| <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, Next, Firebase, Tailwindcss      | `In Progress`
 | <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
 | <a class="link" href='#'>E-Commerce Product</a>              | Junior            | HTML, CSS, JS      | `In Progress`
 | <a class="link" href='#'>Crowd Funding</a>              | Junior            | HTML, CSS, JS      | `In Progress`
@@ -246,8 +226,7 @@ Completed so far:
 | <a class="link" href='https://blog-card-profile.vercel.app/'>Blog Card</a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
 | <a class="link" href='https://contactformmain.netlify.app'>Contact Form</a>              | Junior            | HTML, CSS, JS      | `Completed`
 | <a class="link" href='#'>QR Code</a>              | Junior            | React, bootstrap, html, CSS      | `Completed`
-| <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
-| <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Mid            | React, Tailwindcss, JS | `Completed` 
+| <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Junior            | React, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'>Tip Caluclator</a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
 # Illnois Tech Web Development Projects
@@ -265,7 +244,7 @@ Completed so far:
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab8'>Lab8 - Added sidebar and nav</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webDev_Project2'>Project 2 - Added CSS to Project 1</a> | Beginner            | HTML, CSS    | `Completed`
 | <a class="link" href='https://github.com/Kyl67899/webdev_lab9'>Lab9 - Basic of JS</a> | Junior            | HTML, CSS, JS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webDev_Project3'>Project 3 - Added JS, bootstrap, and made responsive to Project 1 & 2</a> | Junior            | HTML, CSS, JS, API, bootstrap    | `Completed`
+| <a class="link" href='https://github.com/Kyl67899/webDev_Project3'>Project 3 - Added JS, bootstrap, and made responsive to Project 1 & 2</a> | Junior   | HTML, CSS, JS, API, bootstrap    | `Completed`
 
 <!--- # Freelancing
 <a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
