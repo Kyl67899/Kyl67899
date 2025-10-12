@@ -182,7 +182,6 @@ Visit the Web Developmet part of this internship
 
 https://github.com/Kyl67899/lgmvip-web
 
-
 # Java Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
