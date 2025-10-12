@@ -7,42 +7,39 @@
 <!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone or visit my website below for my resume. I am always open to working with open-source, individual projects and freelancing. -->
 
-<h1>👨‍💻 About Me</h1>
-I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like React, HTML, CSS, Shadnui, MUI, Next.js, TailwindCSS, MongoDB, Firebase, and Python.
+<img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
 
-<div style="display: flex">
-   <div class="leftCol">
-     <h4>
-       🎓 Currently learning:
-     </h4>
-     <ul>
-       <li>
-         Frontend & Backend Engineering
-       </li>
-       <li>
-         Machine Learning & Data Science
-       </li>
-       <li>
-         Python & Java
-       </li>
-     </ul>
-   </div>
-   <div class="rightCol">
-     <h4>
-       💡 Proficient in:
-     </h4>
-     <ul>
-       <li>
-         Frontend & Backend Engineering
-       </li>
-       <li>
-         Machine Learning & Data Science
-       </li>
-       <li>
-         Python & Java
-       </li>
-     </ul>
-   </div>
+<h1>👨‍💻 About Me</h1>
+<p>
+I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like <strong>React, HTML, CSS, Shadnui, MUI, Next.js, TailwindCSS, MongoDB, Firebase, and Python</strong>.
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="45%" valign="top">
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+          <h4>🎓 Currently Learning</h4>
+          <ul>
+            <li>Frontend & Backend Engineering</li>
+            <li>Machine Learning & Data Science</li>
+            <li>Python & Java</li>
+          </ul>
+        </div>
+      </td>
+      <td width="10%"></td>
+      <td width="45%" valign="top">
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
+          <h4>💡 Proficient In</h4>
+          <ul>
+            <li>Frontend & Backend Engineering</li>
+            <li>Machine Learning & Data Science</li>
+            <li>Python & Java</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,34 +54,73 @@ Frontend/Fullstack Developer
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📫 Contact Me
+<h2>📫 Contact Me</h2>
 
-<a href="https://www.linkedin.com/in/kyle-parsotan" target="_blank">
-    <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+          <table>
+            <tr>
+              <td align="center" style="padding: 10px;">
+                <a href="https://www.linkedin.com/in/kyle-parsotan" target="_blank">
+                  <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+                </a>
+              </td>
+              <td align="center" style="padding: 10px;">
+                📄 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire Me Form</a>
+              </td>
+              <td align="center" style="padding: 10px;">
+                💬 Discord: <strong>sedev99</strong>
+              </td>
+              <td align="center" style="padding: 10px;">
+                🌐 <a href="https://kylepprofile.dev">Website</a>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- <br />
+<td align="center" style="padding: 10px;">
+    <a href="https://github.com/Kyl67899" target="_blank">
+      <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</td>
+<br /> -->
 
-📄 <a href="">Hire Me Form</a>
-
-💬 Discord: sedev99
-
-🌐 <a href="https://kylepprofile.dev">Website</a>
-
-<a href="https://github.com/Kyl67899" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-
-🧠 <a href="https://leetcode.com/kyleparsotan/">LeetCode</a>
-
-💼 <a href="">Contra Profile</a>
-
-🧑‍💻 <a href="">Fiverr</a> <a href="https://www.freelancer.com/u/WebDev764">Freelancer</a>
-
-<img src="https://komarev.com/ghpvc/?username=kyl67899&style=for-the-badge" alt="Profile views" />
+<div>
+<table>
+    <tr>
+      <td>
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+          <table>
+            <tr>
+              <td align="center" style="padding: 10px;">
+                🧠 <a href="https://leetcode.com/kyleparsotan/">LeetCode</a>
+              </td>
+              <td align="center" style="padding: 10px;">
+                💼 <a href="">Contra</a>
+              </td>
+              <td align="center" style="padding: 10px;">
+                🧑‍💻 <a href="">Fiverr</a> | <a href="https://www.freelancer.com/u/WebDev764">Freelancer</a>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+</table>
+</div>
 
 # Hire a Developer
 
 <a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra Profile<a/>
-<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork Freelancer<a/>
+<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork<a/>
+<a href="https://www.freelancer.com/u/WebDev764">Freelancer<a/>
 
 # Current Stack
 
