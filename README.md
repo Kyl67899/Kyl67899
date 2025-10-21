@@ -72,7 +72,7 @@ Frontend/Fullstack Developer
                 📄 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire Me Form</a>
               </td>
               <td align="center" style="padding: 10px;">
-                💬 Discord: <strong>sedev26</strong> sedev99
+                💬 Discord: <strong>sedev26</strong>
               </td>
               <td align="center" style="padding: 10px;">
                 🌐 <a href="https://kylepprofile.dev">Website</a>
