@@ -77,6 +77,9 @@ Frontend/Fullstack Developer
               <td align="center" style="padding: 10px;">
                 🌐 <a href="https://kylepprofile.dev">Website</a>
               </td>
+              <td align="center" style="padding: 10px;">
+                🌐 <a href="https://hashnode.com/@csdevfe">Hashnode</a>
+              </td>
             </tr>
           </table>
         </div>
