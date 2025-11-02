@@ -265,6 +265,8 @@ Completed so far:
 | <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Junior            | React, Tailwindcss, JS | `Completed` 
 | <a class="link" href='https://tip-calc12.vercel.app'>Tip Caluclator</a>                                | Junior         | HTML, CSS, JS                   | `Completed`
 
+Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo</a> for updated completed challenges
+
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
