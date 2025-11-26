@@ -54,6 +54,27 @@ Frontend/Fullstack Developer
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3>
+  Cyberaware
+</h3>
+<p>
+60-Second Protection Fix
+
+Holidays are prime time for scams, here’s how you stay safe without overthinking it:
+
+Don’t click links from “delivery” texts or emails. Go straight to the carrier’s site or app and check your tracking there. If it feels urgent, pause and verify first .
+
+Watch for fake stores and deals. Check for https and the padlock, real contact info, clean grammar, non-blurry photos, and legit reviews. A “designer” bag for $40 is a no .
+
+Avoid impulse pet purchases. Puppy scams spike during the holidays; always vet sellers and pay by credit card so you have dispute rights. Skip PayPal/Venmo for this .
+
+If you’re asked to act fast or pay in weird ways (gift cards, wires, crypto), stop. That’s a scam pattern. Verify through official channels you find yourself.
+
+Lock down your accounts: turn on MFA, use unique passwords, and consider freezing your credit if you’re not applying for loans. It kills a ton of fraud attempts.
+
+Want more tips? I put together a quick, practical guide to help you spot the small mistakes that put your digital life at risk and how to fix them fast. Inside, you’ll find simple, effective tips that actually make a difference, including how to freeze your credit to protect yourself from identity theft. Download my Everyday Tips To Keep You Safe Online guide.
+</p>
+
 <h2>📫 Contact Me</h2>
 
 <div align="left">
