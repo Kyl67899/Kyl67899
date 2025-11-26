@@ -72,7 +72,7 @@ If you’re asked to act fast or pay in weird ways (gift cards, wires, crypto), 
 
 Lock down your accounts: turn on MFA, use unique passwords, and consider freezing your credit if you’re not applying for loans. It kills a ton of fraud attempts.
 
-Want more tips? I put together a quick, practical guide to help you spot the small mistakes that put your digital life at risk and how to fix them fast. Inside, you’ll find simple, effective tips that actually make a difference, including how to freeze your credit to protect yourself from identity theft. Download my Everyday Tips To Keep You Safe Online guide.
+Want more tips? I put together a quick, practical guide to help you spot the small mistakes that put your digital life at risk and how to fix them fast. Inside, you’ll find simple, effective tips that actually make a difference, including how to freeze your credit to protect yourself from identity theft
 </p>
 
 <h2>📫 Contact Me</h2>
