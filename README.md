@@ -256,7 +256,7 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='#'>FullStack Recipe</a>                                 | Advanced            | Next, API, AWS/postgresql, Tailwindcss, HTML, CSS    | `In Progress`
+| <a class="link" href='recipehub.dev'>FullStack Recipe</a>                                 | Advanced            | Next, API, Firebase, Tailwindcss, HTML, CSS, web security, has a really big secret    | `In Progress`
 | <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
 | <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, Next, Firebase, Tailwindcss      | `In Progress`
 | <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
