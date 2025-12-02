@@ -148,7 +148,7 @@ Frontend/Fullstack Developer
 -->
 </div>
 
-# Bootstrap Web Development Projects
+# Dreamweaver CS6 and Photoshop Web Development Projects
 
 | Project Name | Level | Recommended tech | Link/Status
 | --- | --- | --- | --- |
