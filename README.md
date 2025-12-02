@@ -141,15 +141,17 @@ Frontend/Fullstack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="next" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="next" width="40" height="40"/>&nbsp; -->
+<!--   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="next" width="40" height="40"/>&nbsp; 
+  | <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Stripe Clone Fullsatck with ML </a>                                 | Senior            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
+-->
 </div>
 
 # Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Stripe Clone Fullsatck with ML </a>                                 | Senior            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | Mid            | Next, React, Tailwindcss, Framer motion   | `In Progress`
+| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | Mid            | Next, React, Tailwindcss, shadnui, Framer motion   | `In Progress`
 | <a class="link" href='#'> Todo app </a>                                 | Mid            | HTML, CSS, JS, Tailwindcss    | `In Progress`
 | <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS, TS    | `In Progress`
 | <a class="link" href='https://electricalwebsite.vercel.app'> Power Pro Electrical </a>              | Mid            | Next, Tailwindcss, resend, HTML, CSS, Firebase     | `Completed`
