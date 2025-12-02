@@ -141,11 +141,27 @@ Frontend/Fullstack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="next" width="40" height="40"/>&nbsp;
+  Bootstrap Studio
 <!--   
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="next" width="40" height="40"/>&nbsp; 
   | <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Stripe Clone Fullsatck with ML </a>                                 | Senior            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
 -->
 </div>
+
+# Bootstrap Web Development Projects
+
+| Project Name | Level | Recommended tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href="#"> First Portfolio using Dreamweaver CS6 </a> | Junior | Dreamweaver CS5 | `Completed` | `not active`
+| <a class="link" href="#"> History class project </a> | junior | Dreamweaver CS6 | `Completed` | `not active`
+
+# Bootstrap Web Development Projects
+
+| Project Name | Level | Recommended tech | Link/Status
+| --- | --- | --- | --- |
+| <a class="link" href="#"> First Portfolio using Boostrap Studio </a> | Junior | Bootstrap Studio | `Completed`
+| <a class="link" href="#"> v2 Portfolio using Boostrap Studio </a> | Mid | Bootstrap Studio | `In Progress`
+| <a class="link" href="#"> E-Commerce </a> | Mid | Bootstrap Studio | `In progress`
 
 # Web Development Projects
 
