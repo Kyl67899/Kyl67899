@@ -7,7 +7,7 @@
 <!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone or visit my website below for my resume. I am always open to working with open-source, individual projects and freelancing. -->
 
-![](https://komarev.com/ghpvc/kyl67899)
+![Visitor Count](https://profile-counter.glitch.me/{kyl67899}/count.svg) 
 
 <h1>👨‍💻 About Me</h1>
 <p>
