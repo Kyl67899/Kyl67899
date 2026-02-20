@@ -163,6 +163,27 @@ Frontend/Fullstack Developer
 | <a class="link" href="#"> v2 Portfolio using Boostrap Studio </a> | Mid | Bootstrap Studio | `In Progress`
 | <a class="link" href="#"> E-Commerce </a> | Mid | Bootstrap Studio | `In progress`
 
+# WebDevDaily
+| Project Name | Level | Recommended Tech | Link/Status
+
+This path is designed for you to practice HTML, CSS, and basic JavaScript. 
+
+| Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
+| Eye Follow UI | Beginner |  HTML, CSS, JS | https://kyl67899.github.io/EyeFollowUI | https://github.com/Kyl67899/EyeFollowUI
+| BookProfilepage | Beginner |  HTML and CSS | 
+| Blog-card | Beginner | HTML and CSS | 
+| CardsUI | Beginner | HTML and CSS | 
+| ContactFormUI | Beginner | HTML and CSS | 
+| Crowdfundings | Beginner | HTML and CSS | 
+| Newsletter | Beginner | HTML and CSS | 
+| PaymentLandingPage | Beginner | HTML and CSS | 
+| PortfolioUI | Beginner | HTML and CSS | 
+| PortfolioUI2 | Beginner | HTML and CSS | 
+| Productinfo | Beginner | HTML and CSS | 
+| SaaSUI | Beginner | HTML and CSS | https://saaas-landing-page.vercel.app
+| WeatherAppUI | Beginner | HTML and CSS | 
+
 # Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
