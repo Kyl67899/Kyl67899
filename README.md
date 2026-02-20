@@ -232,7 +232,8 @@ Frontend/Fullstack Developer
 | Streamlit or Gradio for optional user interface
 | Google Colab for experimentation and collaboration
 
-| Project that I'll be building:
+| Project Name | Level | Recommended tech | Link/Status
+| --- | --- | --- | --- |
 | Project Name | Level | Recommended Tech | Link/Status
 | Scanned Document Images Preprocessor (Project 2)
 | Document Parser (Project 3)
