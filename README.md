@@ -219,6 +219,26 @@ Frontend/Fullstack Developer
 | <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas
 -->
 
+# Extern: Outmation Internship - Data Science
+Tools I will be using:
+Python for scripting and data processing
+PyMuPDF, pdfplumber for PDF parsing
+OpenCV, PIL for image preprocessing
+OCR Engines: Tesseract, PaddleOCR, EasyOCR
+LlamaIndex, FAISS or Chroma for vector-based retrieval
+Gemini API and open-source LLMs (Mistral, Phi-2)
+Streamlit or Gradio for optional user interface
+Google Colab for experimentation and collaboration
+
+Project that I'll be building:
+
+Scanned Document Images Preprocessor (Project 2)
+Document Parser (Project 3)
+Retrieval-Augmented Generation (RAG) Pipeline (Project 5) https://youtu.be/WjFtTYO5kzc
+split_and_route() Pipeline (Project 7)
+Working UI/Command-line Search Layer (Project 8)
+Final Report & Reflection Document
+
 # LetsGrowMore - Data Science
 ____________________________________________________________________________________________________
 
@@ -240,7 +260,7 @@ This repository was made to maintain all task during the virtual internship. The
 
 <!--- ![image](https://github.com/Kyl67899/lgmvip-data-science/assets/35744262/8b2336d3-4c08-4947-a286-26ef321982da) ---> 
 
-Visit the Web Developmet part of this internship
+Visit the Web Development part of this internship
 
 https://github.com/Kyl67899/lgmvip-web
 
@@ -274,7 +294,7 @@ Completed so far:
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| <a class="link" href='recipehub.dev'>FullStack Recipe</a>                                 | Advanced            | Next, API, Firebase, Tailwindcss, HTML, CSS, web security, has a really big secret    | `In Progress`
+| <a class="link" href='recipehub.dev'>FullStack Recipe</a>                                 | Gru            | Next, API, Firebase, Tailwindcss, HTML, CSS, web security, using Python to analyze the food (computer vision, OCR layout, image processing, and ML/AI)     | `In Progress`
 | <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
 | <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, Next, Firebase, Tailwindcss      | `In Progress`
 | <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
