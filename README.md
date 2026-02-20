@@ -220,8 +220,7 @@ Frontend/Fullstack Developer
 -->
 
 # Extern: Outmation Internship - Data Science
-
-| Tools I will be using:
+| Tools I will be using
 | --- | --- | --- | --- |
 | Python for scripting and data processing
 | PyMuPDF, pdfplumber for PDF parsing
