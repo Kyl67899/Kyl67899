@@ -83,6 +83,9 @@ Frontend/Fullstack Developer
               <td align="center" style="padding: 10px;">
                 🌐 <a href="https://dev.to/kyl67899">Dev.to</a>
               </td>
+              <td align="center" style="padding:10px;">
+                <a href="https://t.me/csdevfe">telegram</a>
+              </td>
             </tr>
           </table>
         </div>
