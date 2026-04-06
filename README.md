@@ -255,6 +255,12 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 | Working UI/Command-line Search Layer (Project 8) | Intermediate | Google Colab for experimentation and collaboration, Streamlit or Gradio for optional user interface
 | Final Report & Reflection Document | 
 
+| Project Name | Level | Recommended Tech | Link/Status
+| Recipe Helper Bot | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
+| Airport Flight Assistant with Real-Time Information | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
+Multi-Doc Intelligence Hub | Advanced | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
+Final Report & Reflection Document | Advanced | Google Gemini, OpenAI, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
+
 # LetsGrowMore - Data Science
 ____________________________________________________________________________________________________
 
