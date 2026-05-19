@@ -75,6 +75,9 @@ Frontend/Fullstack Developer
                 💬 Discord: <strong>sedev26</strong>
               </td>
               <td align="center" style="padding: 10px;">
+                💬 Discord: <strong><a href="https://discord.gg/GabDBvcNz">Join my server</a></strong>
+              </td>
+              <td align="center" style="padding: 10px;">
                 🌐 <a href="https://kylepprofile.dev">Website</a>
               </td>
               <td align="center" style="padding: 10px;">
