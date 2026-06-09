@@ -115,10 +115,10 @@ Frontend/Fullstack Developer
           <table>
             <tr>
               <td align="center" style="padding: 10px;">
-                🧠 <a href="https://leetcode.com/kyleparsotan/">LeetCode</a>
+                🧠 <a href="https://www.leetcode.com/kyleparsotan/">LeetCode</a>
               </td>
               <td align="center" style="padding: 10px;">
-                💼 <a href="">Contra</a>
+                💼 <a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra</a>
               </td>
               <td align="center" style="padding: 10px;">
                 🧑‍💻 <a href="">Fiverr</a> | <a href="https://www.freelancer.com/u/WebDev764">Freelancer</a>
