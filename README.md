@@ -81,13 +81,16 @@ Frontend/Fullstack Developer
                 🌐 <a href="https://kylepprofile.dev">Website</a>
               </td>
               <td align="center" style="padding: 10px;">
+                🌐 <a href="https://kylepprofile.com">Social Media Profile</a>
+              </td>
+              <td align="center" style="padding: 10px;">
                 🌐 <a href="https://hashnode.com/@csdevfe">Hashnode</a>
               </td>
               <td align="center" style="padding: 10px;">
                 🌐 <a href="https://dev.to/kyl67899">Dev.to</a>
               </td>
               <td align="center" style="padding:10px;">
-                <a href="https://t.me/csdevfe">telegram</a>
+                <a href="https://t.me/swedev748">telegram</a>
               </td>
             </tr>
           </table>
