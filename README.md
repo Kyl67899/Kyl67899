@@ -340,6 +340,12 @@ Completed so far:
 
 Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo</a> for updated completed challenges
 
+# Contra/Freelancer/Twine Web Development Projects
+
+| Project Name | Level | Recommended Tech | Link/Status
+| Milan-Pole-Dance-Studio-Page-Redesign | 
+
+
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
