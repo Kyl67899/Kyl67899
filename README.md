@@ -252,6 +252,7 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 
 # Extern: Amazon Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
+| --- | --- | --- | --- |
 | Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis
 
 
