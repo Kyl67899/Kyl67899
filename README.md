@@ -253,8 +253,8 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 # Extern: Amazon Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
 | --- | --- | --- | --- |
-| Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis | https://github.com/Kyl67899/Glassdoor-Reviews-Using-Python
-
+| Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://github.com/Kyl67899/Glassdoor-Reviews-Using-Python
+| Clean Up Youtube Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://github.com/Kyl67899/Glassdoor-Reviews-Using-Python
 
 # Extern: Outmation Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
@@ -346,11 +346,16 @@ Completed so far:
 
 Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo</a> for updated completed challenges
 
+# EXPO (ANDROID/IOS) Project
+
+| Project Name | Level | Recommended Tech | Link/Status
+| Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
+
 # Contra/Freelancer/Twine Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | Milan-Pole-Dance-Studio-Page-Redesign | 
-
+|  | 
 
 # Illnois Tech Web Development Projects
 
