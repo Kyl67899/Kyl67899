@@ -349,11 +349,13 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 # EXPO (ANDROID/IOS) Project
 
 | Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
 | Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
 
 # Contra/Freelancer/Twine Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
+| --- | --- | --- | --- |
 | Milan-Pole-Dance-Studio-Page-Redesign | 
 |  | 
 
