@@ -78,16 +78,16 @@ Frontend/Fullstack Developer
                 💬 Discord: <strong><a href="https://discord.gg/GabDBvcNz">Join my server</a></strong>
               </td>
               <td align="center" style="padding: 10px;">
-                🌐 <a href="https://kylepprofile.dev">Website</a>
+                🌐 <a href="https://www.kylepprofile.dev">Website</a>
               </td>
               <td align="center" style="padding: 10px;">
-                🌐 <a href="https://kylepprofile.com">Social Media Profile</a>
+                🌐 <a href="https://www.kylepprofile.com">Social Media Profile</a>
               </td>
               <td align="center" style="padding: 10px;">
-                🌐 <a href="https://hashnode.com/@csdevfe">Hashnode</a>
+                🌐 <a href="https://www.hashnode.com/@csdevfe">Hashnode</a>
               </td>
               <td align="center" style="padding: 10px;">
-                🌐 <a href="https://dev.to/kyl67899">Dev.to</a>
+                🌐 <a href="https://www.dev.to/kyl67899">Dev.to</a>
               </td>
               <td align="center" style="padding:10px;">
                 <a href="https://t.me/swedev748">telegram</a>
