@@ -115,6 +115,9 @@ Frontend/Fullstack Developer
           <table>
             <tr>
               <td align="center" style="padding: 10px;">
+                <a href="https://www.hackerrank.com/profile/kyleparsotan">Hackerrank</a>
+              </td>
+              <td align="center" style="padding: 10px;">
                 🧠 <a href="https://www.leetcode.com/kyleparsotan/">LeetCode</a>
               </td>
               <td align="center" style="padding: 10px;">
@@ -273,6 +276,9 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 | Airport Flight Assistant with Real-Time Information | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
 Multi-Doc Intelligence Hub | Advanced | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
 Final Report & Reflection Document | Advanced | Google Gemini, OpenAI, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
+
+# DataCamp
+<a href="https://www.datacamp.com/portfolio/csdevfe">Data Camp Portfolio</a>
 
 # LetsGrowMore - Data Science
 ____________________________________________________________________________________________________
