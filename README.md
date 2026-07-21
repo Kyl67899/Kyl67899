@@ -11,7 +11,7 @@
 
 <h1>👨‍💻 About Me</h1>
 <p>
-I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like <strong>React, HTML, CSS, Shadnui, MUI, Next.js, TailwindCSS, MongoDB, Firebase, and Python</strong>.
+I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like <strong>React, HTML, CSS, shadnui, MUI, Next.js, react.js, vite, TailwindCSS, MongoDB, Firebase, and Python</strong>.
 </p>
 
 <div align="center">
