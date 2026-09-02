@@ -365,24 +365,24 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 
 | Project Name | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Milan-Pole-Dance-Studio-Page-Redesign | 
-| Lawn Care Service | https://lawn-care-service.vercel.app
-| Safe Ride Share landing page and APP | 
-| Yoga Website | https://yoga-studio-website-green.vercel.app
-| Elite Cuts Barbershop | https://barbershop-jb1k.vercel.app
-| Breeze Tech HVAC | https://breeze-tech-hvac.vercel.app
-| Construction Co | https://construction-website-livid.vercel.app
-| Electrical Website | https://electricalwebsite.vercel.app
-| Meridian Apartment | https://luxary-apartmentv2.vercel.app
+| Milan-Pole-Dance-Studio-Page-Redesign | Wordpress | 
+| Lawn Care Service | Wordpress |  https://lawn-care-service.vercel.app
+| Safe Ride Share landing page and APP | Wordpress | 
+| Yoga Website | Wordpress |  https://yoga-studio-website-green.vercel.app
+| Elite Cuts Barbershop | Wordpress | https://barbershop-jb1k.vercel.app
+| Breeze Tech HVAC | Wordpress | https://breeze-tech-hvac.vercel.app
+| Construction Co | Wordpress | https://construction-website-livid.vercel.app
+| Electrical Website | Wordpress | https://electricalwebsite.vercel.app
+| Meridian Apartment | Wordpress | https://luxary-apartmentv2.vercel.app
 | FreshPineGreen | Wordpress | 
 | Electrical Ecommerce Store using Shopify |
 | Blog website using headless Wordpress | 
-| Zanboni Lighting Resdesign | https://zaniboni-lightning.vercel.app
-| Turbo Glass Car Wash Resdesign | https://turboglass.vercel.app
-| Myna Ecommerce Website | https://myna-ecommerce-app.vercel.app
-| DJ Ticket System Website | https://spinticket.vercel.app
-| Dental Smile Studio  | https://clearsmilestudio.vercel.app
-| Soleil Tanning Studio | https://tanning-studiio.vercel.app
+| Zanboni Lighting Resdesign | Custom code | https://zaniboni-lightning.vercel.app
+| Turbo Glass Car Wash Resdesign | Wordpress | https://turboglass.vercel.app
+| Myna Ecommerce Website | Wordpress | https://myna-ecommerce-app.vercel.app
+| DJ Ticket System Website | Wordpress | https://spinticket.vercel.app
+| Dental Smile Studio  | Wordpress | https://clearsmilestudio.vercel.app
+| Soleil Tanning Studio | Wordpress | https://tanning-studiio.vercel.app
 
 # Illnois Tech Web Development Projects
 
