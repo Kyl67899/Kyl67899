@@ -1,7 +1,5 @@
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Kyle+Parsotan+👋;Fullstack+Developer+%7C+ML+Learner+%7C+Open+Source+Contributor" alt="Typing SVG" /> 
-  </a> 
+ Hello, I'm Kyle Parsotan Full-stack Developer
 </div>
 
 <!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
