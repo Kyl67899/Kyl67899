@@ -259,7 +259,7 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 | Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/162WN9Mm23klcfs-WIw0IGr28bf0i8Aqw?usp=sharing
 | Clean Up Youtube Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/14SWPViFuHzFj9Qj6Keemkrqbx-WmPH7h?usp=sharing
 | Final Project | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, google slide | 
-Video to presentation and conclusion
+Video to Presentation and Conclusion
 
 # Extern: Outmation Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
@@ -272,7 +272,7 @@ Video to presentation and conclusion
 | Working UI/Command-line Search Layer (Project 8) | Intermediate | Google Colab for experimentation and collaboration, Streamlit or Gradio for optional user interface
 Final Report & Reflection Document | Advanced | Google Gemini, OpenAI, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
 
-| Project Name | Level | Recommended tech | Link/Status
+| Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Recipe Helper Bot | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
 | Airport Flight Assistant with Real-Time Information | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
@@ -361,23 +361,29 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
 | SafeRide APP | Advanced | React-Native, database: appwrite, expo, tailwindcss, shadnui | Not in production | https://github.com/Kyl67899
 
-# Contra/Freelancer/Twine Web Development Projects
+# Contras/Sandra/Twine Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Milan-Pole-Dance-Studio-Page-Redesign | 
+|  | 
 | Lawn Care Service | https://lawn-care-service.vercel.app
-Safe Ride Share landing page and APP | 
-Yoga Website | https://yoga-studio-website-green.vercel.app
-Elite Cuts Barbershop | https://barbershop-jb1k.vercel.app
-Breeze Tech HVAC | https://breeze-tech-hvac.vercel.app
-Construction Co | https://construction-website-livid.vercel.app
-Electrical Website | https://electricalwebsite.vercel.app
-Meridian Apartment | https://luxary-apartmentv2.vercel.app
-FreshPineGreen | Wordpress | 
-Electrical Ecommerce Store using Shopify |
-Blog website using headless Wordpress | 
-
+| Safe Ride Share landing page and APP | 
+| Yoga Website | https://yoga-studio-website-green.vercel.app
+| Elite Cuts Barbershop | https://barbershop-jb1k.vercel.app
+| Breeze Tech HVAC | https://breeze-tech-hvac.vercel.app
+| Construction Co | https://construction-website-livid.vercel.app
+| Electrical Website | https://electricalwebsite.vercel.app
+| Meridian Apartment | https://luxary-apartmentv2.vercel.app
+| FreshPineGreen | Wordpress | 
+| Electrical Ecommerce Store using Shopify |
+| Blog website using headless Wordpress | 
+| Zanboni Lighting Resdesign | https://zaniboni-lightning.vercel.app
+| Turbo Glass Car Wash Resdesign | https://turboglass.vercel.app
+| Myna Ecommerce Website | https://myna-ecommerce-app.vercel.app
+| DJ Ticket System Website | https://spinticket.vercel.app
+| Dental Smile Studio  | https://clearsmilestudio.vercel.app
+| Soleil Tanning Studio | https://tanning-studiio.vercel.app
 
 # Illnois Tech Web Development Projects
 
