@@ -258,6 +258,8 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 | --- | --- | --- | --- |
 | Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/162WN9Mm23klcfs-WIw0IGr28bf0i8Aqw?usp=sharing
 | Clean Up Youtube Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/14SWPViFuHzFj9Qj6Keemkrqbx-WmPH7h?usp=sharing
+| Final Project | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, google slide | 
+Video to presentation and conclusion
 
 # Extern: Outmation Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
