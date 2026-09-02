@@ -1,5 +1,5 @@
 <div align="center"> 
- Hello, I'm Kyle Parsotan Full-stack Developer
+ Hello, I'm Kyle Parsotan. I'm a Full-stack Developer, AI/ML, Frontend Developer
 </div>
 
 <!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
