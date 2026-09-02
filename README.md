@@ -366,7 +366,18 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Milan-Pole-Dance-Studio-Page-Redesign | 
-|  | 
+| Lawn Care Service | https://lawn-care-service.vercel.app
+Safe Ride Share landing page and APP | 
+Yoga Website | https://yoga-studio-website-green.vercel.app
+Elite Cuts Barbershop | https://barbershop-jb1k.vercel.app
+Breeze Tech HVAC | https://breeze-tech-hvac.vercel.app
+Construction Co | https://construction-website-livid.vercel.app
+Electrical Website | https://electricalwebsite.vercel.app
+Meridian Apartment | https://luxary-apartmentv2.vercel.app
+FreshPineGreen | Wordpress | 
+Electrical Ecommerce Store using Shopify |
+Blog website using headless Wordpress | 
+
 
 # Illnois Tech Web Development Projects
 
