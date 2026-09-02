@@ -363,10 +363,9 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 
 # Contras/Sandra/Twine Web Development Projects
 
-| Project Name | Level | Recommended Tech | Link/Status
+| Project Name | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Milan-Pole-Dance-Studio-Page-Redesign | 
-|  | 
 | Lawn Care Service | https://lawn-care-service.vercel.app
 | Safe Ride Share landing page and APP | 
 | Yoga Website | https://yoga-studio-website-green.vercel.app
