@@ -440,6 +440,6 @@ CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
 
 # 📊GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyl67899&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
-<!-- ![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<!--  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
+![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
