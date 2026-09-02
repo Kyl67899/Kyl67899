@@ -69,7 +69,7 @@ Frontend/Fullstack Developer
                 </a>
               </td>
               <td align="center" style="padding: 10px;">
-                📄 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire Me Form</a>
+                📄 <a href="https://form.typeform.com/to/gU78ojh6">Hire Me Form</a>
               </td>
               <td align="center" style="padding: 10px;">
                 💬 Discord: <strong>sedev26</strong>
