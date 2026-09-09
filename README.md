@@ -359,7 +359,7 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
 | SafeRide APP | Advanced | React-Native, database: appwrite, expo, tailwindcss, shadnui | Not in production | https://github.com/Kyl67899
 
-# Contras/Sandra/Twine Web Development Projects
+# Contra/Twine Web Development Projects
 
 | Project Name | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
