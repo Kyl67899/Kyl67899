@@ -367,7 +367,7 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 
 # Contra/Twine Web Development Projects
 
-| Project Name | Recommended Tech | Link/Status
+| Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
 | Milan-Pole-Dance-Studio-Page-Redesign | Wordpress | 
 | Lawn Care Service | Wordpress |  https://lawn-care-service.vercel.app
