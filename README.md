@@ -263,7 +263,7 @@ Video to Presentation and Conclusion |
 | Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/162WN9Mm23klcfs-WIw0IGr28bf0i8Aqw?usp=sharing
 | Clean Up Youtube Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/14SWPViFuHzFj9Qj6Keemkrqbx-WmPH7h?usp=sharing
 | Final Project | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, google slide | 
-Video to Presentation and Conclusion | https://www.loom.com/share/db79ea8fd2c94defbbd08b2d7b05ee06
+Video to Presentation and Conclusion | intermediate |  Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, Google Slide | https://www.loom.com/share/db79ea8fd2c94defbbd08b2d7b05ee06
 
 # Extern: Outmation Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
