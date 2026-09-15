@@ -252,10 +252,13 @@ This path is designed for you to practice HTML, CSS, and basic JavaScript.
 -->
 
 # Extern: Wayfair Internship - AI Automation with N8N
-| Project Name | Level | Recommended tech | Link/Status
+| Project Name | Level | Recommended Tech | Link/Status
 | --- | --- | --- | --- |
-| Final Project |  
-Video to Presentation and Conclusion | 
+| AI Moodboard Agent | 
+| Consumer Trend Discovery AI Agent |
+| Competitor Monitoring AI Agent |
+| AI Insight & Content Agent | 
+| Final Project: Video to Presentation and Conclusion | 
 
 # Extern: Amazon Internship - Data Science
 | Project Name | Level | Recommended tech | Link/Status
