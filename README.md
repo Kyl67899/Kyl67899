@@ -279,6 +279,7 @@ Video to Presentation and Conclusion | intermediate |  Google Colab, Python, loa
 | Working UI/Command-line Search Layer (Project 8) | Intermediate | Google Colab for experimentation and collaboration, Streamlit or Gradio for optional user interface
 Final Report & Reflection Document | Advanced | Google Gemini, OpenAI, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
 
+# Other Projects I Worked on During the Externship
 | Project Name | Level | Recommended tech | Link/Status
 | --- | --- | --- | --- |
 | Recipe Helper Bot | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
@@ -367,6 +368,9 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | --- | --- | --- | --- |
 | Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
 | SafeRide APP | Advanced | React-Native, database: appwrite, expo, tailwindcss, shadnui | Not in production | https://github.com/Kyl67899
+| Intelligent Document AI Agent App (Flight, food, OCR documentation) | Advanced | Android: kotlin, IOS: xcode or swift; Frontend: React-Native, Python (Flask), OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service,  Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
+| Food App (Food, OCR, computer vision) | Advanced | Frontend: React-Native, OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service, Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
+| Coder Remind App (Monitors coders health with Apple, Samsung, Google, LGe health) | Advanced | Frontend: React-Native, OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service, Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
 
 # Contra/Twine Web Development Projects
 
