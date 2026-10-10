@@ -400,6 +400,7 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | --- | --- | --- | --- |
 | Amazon FireTV App | Not in Production
 | YouCamAPI eCommerce | Advanced | Fullstack, OCR, Computer Visions, etc | Not in production 
+| NFL Big Data Hackathon Kaggle | data science | github, doc, live stream in parts coming soon
 
 # Illnois Tech Web Development Projects
 
