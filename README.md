@@ -395,6 +395,12 @@ Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo<
 | Dental Smile Studio  | Wordpress | https://clearsmilestudio.vercel.app
 | Soleil Tanning Studio | Wordpress | https://tanning-studiio.vercel.app
 
+# Major League Hackathon
+| Project Name | Level | Recommended Tech | Link/status
+| --- | --- | --- | --- |
+| Amazon FireTV App | Not in Production
+| YouCamAPI eCommerce | Advanced | Fullstack, OCR, Computer Visions, etc | Not in production 
+
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
@@ -451,6 +457,7 @@ CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
 
 # 📊GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyl67899&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 <!--  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
 ![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
