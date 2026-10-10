@@ -459,6 +459,11 @@ CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
 # 📊GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyl67899&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+
+[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
+
 <!--  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
 ![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
