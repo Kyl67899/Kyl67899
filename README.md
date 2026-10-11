@@ -1,467 +1,297 @@
-<div align="center"> 
- Hello, I'm Kyle Parsotan. I'm a Full-stack Developer, AI/ML, Frontend Developer
+<div align="center">
+
+# Kyle Parsotan
+
+**Full-Stack Developer · Frontend · AI/ML**
+
+I build and ship web apps with React and Next.js, and I'm growing into backend systems, machine learning, and data science.
+
+<a href="https://www.linkedin.com/in/kyle-parsotan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.kylepprofile.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://form.typeform.com/to/gU78ojh6"><img src="https://img.shields.io/badge/Hire%20Me-2EA44F?style=for-the-badge" alt="Hire Me" /></a>
+
 </div>
 
-<!--- A fullstack developer that have extensive knowledge in frontend technologies exhausting in developing multiple web applications. Currently a student learning frontend, backend, Machine Learning, Data Science, Python, and Java. I am knowledgeable and proficient in various programming languages such as HTML/CSS, tailwindcss, bootstrap, JS, Next, Python, and SQL. I am looking for an entry-level position as a web developer, software engineer, software developer, and frontend developer. 📫 I am reachable by email at
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdxmpiDHenlrbWc-Hl6aKJreHyhqwzWYA6CCC6tzkGbzGRLng/viewform">Hire a Developer</a> or on 👯 discord: sedev99 or by phone or visit my website below for my resume. I am always open to working with open-source, individual projects and freelancing. -->
+---
 
-<h1>👨‍💻 About Me</h1>
+## About
+
+- **Open to:** entry-level Web Developer, Software Engineer, and Frontend / Full-Stack Developer roles, plus freelance and open-source work
+- **Proficient in:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, shadcn/ui, MUI, Firebase, MongoDB, Python, SQL
+- **Currently learning:** Java, backend engineering, machine learning, and data science
+
+## Tech Stack
+
 <p>
-I'm a fullstack developer with deep experience in frontend technologies and a growing passion for backend systems, machine learning, and data science. I’ve built and deployed multiple web applications using modern stacks like <strong>React, HTML, CSS, shadnui, MUI, Next.js, react.js, vite, TailwindCSS, MongoDB, Firebase, and Python</strong>.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" />
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="45%" valign="top">
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-          <h4>🎓 Currently Learning</h4>
-          <ul>
-            <li>Frontend & Backend Engineering</li>
-            <li>Machine Learning & Data Science</li>
-            <li>Python & Java</li>
-          </ul>
-        </div>
-      </td>
-      <td width="10%"></td>
-      <td width="45%" valign="top">
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; background-color: #f9f9f9;">
-          <h4>💡 Proficient In</h4>
-          <ul>
-            <li>Frontend & Backend Engineering</li>
-            <li>Machine Learning & Data Science</li>
-            <li>Python & Java</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## Contact
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| | |
+| --- | --- |
+| **Work with me** | [Hire Me form](https://form.typeform.com/to/gU78ojh6) · [Contra](https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link) · [Upwork](https://www.upwork.com/freelancers/~0154db529bc2946058) · [Freelancer](https://www.freelancer.com/u/WebDev764) |
+| **Profiles** | [LinkedIn](https://www.linkedin.com/in/kyle-parsotan) · [Portfolio](https://www.kylepprofile.dev) · [Social links](https://sociallinkprofile.vercel.app) · [Hashnode](https://www.hashnode.com/@csdevfe) · [Dev.to](https://www.dev.to/kyl67899) |
+| **Coding** | [LeetCode](https://www.leetcode.com/kyleparsotan/) · [HackerRank](https://www.hackerrank.com/profile/kyleparsotan) · [Frontend Mentor](https://www.frontendmentor.io/profile/Kyl6789) · [DataCamp](https://www.datacamp.com/portfolio/csdevfe) |
+| **Chat** | Discord: **sedev26** · [Discord server](https://discord.gg/GabDBvcNz) · [Telegram](https://t.me/swedev748) |
 
-📌 Seeking entry-level roles as:
+---
 
-Web Developer
+## Projects
 
-Software Engineer
+**Jump to:**
+[Full-Stack](#full-stack) ·
+[Frontend](#frontend) ·
+[Frontend Mentor](#frontend-mentor) ·
+[Client & Freelance](#client--freelance-work) ·
+[Mobile Apps](#mobile-apps) ·
+[AI & Document Intelligence](#ai--document-intelligence) ·
+[Data Science & ML](#data-science--machine-learning) ·
+[Externships](#externships) ·
+[Hackathons](#hackathons) ·
+[Java](#java) ·
+[Coursework & Early Work](#coursework--early-work)
 
-Frontend/Fullstack Developer
+### Full-Stack
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<h2>📫 Contact Me</h2>
-
-<div align="left">
-  <table>
-    <tr>
-      <td>
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-          <table>
-            <tr>
-              <td align="center" style="padding: 10px;">
-                <a href="https://www.linkedin.com/in/kyle-parsotan" target="_blank">
-                  <img src="https://img.shields.io/badge/kyle-parsotan?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-                </a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                📄 <a href="https://form.typeform.com/to/gU78ojh6">Hire Me Form</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                💬 Discord: <strong>sedev26</strong>
-              </td>
-              <td align="center" style="padding: 10px;">
-                💬 Discord: <strong><a href="https://discord.gg/GabDBvcNz">Join my server</a></strong>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🌐 <a href="https://www.kylepprofile.dev">Website</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🌐 <a href="https://sociallinkprofile.vercel.app">Social Media Profile</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🌐 <a href="https://www.hashnode.com/@csdevfe">Hashnode</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🌐 <a href="https://www.dev.to/kyl67899">Dev.to</a>
-              </td>
-              <td align="center" style="padding:10px;">
-                <a href="https://t.me/swedev748">telegram</a>
-              </td>
-            </tr>
-          </table>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-<!-- <br />
-<td align="center" style="padding: 10px;">
-    <a href="https://github.com/Kyl67899" target="_blank">
-      <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</td>
-<br /> -->
-
-<div>
-<table>
-    <tr>
-      <td>
-        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
-          <table>
-            <tr>
-              <td align="center" style="padding: 10px;">
-                <a href="https://www.hackerrank.com/profile/kyleparsotan">Hackerrank</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🧠 <a href="https://www.leetcode.com/kyleparsotan/">LeetCode</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                💼 <a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra</a>
-              </td>
-              <td align="center" style="padding: 10px;">
-                🧑‍💻 <a href="">Fiverr</a> | <a href="https://www.freelancer.com/u/WebDev764">Freelancer</a>
-              </td>
-            </tr>
-          </table>
-        </div>
-      </td>
-    </tr>
-</table>
-</div>
-
-# Hire a Developer
-
-<a href="https://contra.com/kyleparsotan_aiasd94z?utm_campaign=social_sharing&utm_medium=independent_share&utm_source=copy_link">Contra Profile<a/>
-<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork<a/>
-<a href="https://www.freelancer.com/u/WebDev764">Freelancer<a/>
-
-# Current Stack
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="next" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="firebase" alt="next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="next" width="40" height="40"/>&nbsp;
-  Bootstrap Studio
-<!--   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="vercel" alt="next" width="40" height="40"/>&nbsp; 
-  | <a class="link" href='https://github.com/Kyl67899/stripe-clone'> Stripe Clone Fullsatck with ML </a>                                 | Senior            | Next, React, MiddleWare, Supabase, Tailwindcss, Resend, Route, ML, SQL | `In Progress`
--->
-</div>
-
-# Dreamweaver CS6 and Photoshop Web Development Projects
-
-| Project Name | Level | Recommended tech | Link/Status
+| Project | Stack | Status | Link |
 | --- | --- | --- | --- |
-| <a class="link" href="#"> First Portfolio using Dreamweaver CS6 </a> | Junior | Dreamweaver CS5 | `Completed` | `not active`
-| <a class="link" href="#"> History class project </a> | junior | Dreamweaver CS6 | `Completed` | `not active`
+| FullStack Recipe | Next.js, Firebase, Tailwind CSS, REST API, Python (computer vision, OCR, ML) | In progress | [recipehub.dev](https://recipehub.dev) |
+| Twitter Clone | Next.js, MUI, Tailwind CSS, Firebase | Completed | [Live](https://twitterclone-project.vercel.app) |
+| Power Pro Electrical | Next.js, Tailwind CSS, Resend, Firebase | Completed | [Live](https://electricalwebsite.vercel.app) |
+| Bike Store | React, CSS, Firebase | Completed | [Live](https://thebikestore.vercel.app) |
+| LetsGrowMore Web Development | React, MUI, Tailwind CSS, Firebase | Completed | [Repo](https://github.com/Kyl67899/lgmvip-web) |
+| Summarist | Next.js, TypeScript, Firebase, MUI, Tailwind CSS | In progress | — |
+| Todo App | HTML, CSS, JavaScript, MongoDB | In progress | [Repo](https://github.com/Kyl67899/Backend_Todo) |
 
-# Bootstrap Web Development Projects
+### Frontend
 
-| Project Name | Level | Recommended tech | Link/Status
+| Project | Stack | Status | Link |
 | --- | --- | --- | --- |
-| <a class="link" href="#"> First Portfolio using Boostrap Studio </a> | Junior | Bootstrap Studio | `Completed`
-| <a class="link" href="#"> v2 Portfolio using Boostrap Studio </a> | Mid | Bootstrap Studio | `In Progress`
-| <a class="link" href="#"> E-Commerce </a> | Mid | Bootstrap Studio | `In progress`
+| Stripe Clone Landing Page | Next.js, React, Tailwind CSS, shadcn/ui, Framer Motion | In progress | [Repo](https://github.com/Kyl67899/stripe-clone-landing-page) |
+| Library App | React, CSS | Completed | — |
+| Coming Soon Page | HTML, CSS, JavaScript | Completed | — |
 
-# WebDevDaily
-| Project Name | Level | Recommended Tech | Link/Status
+<details>
+<summary><strong>WebDevDaily UI challenges (14)</strong> — HTML, CSS, and basic JavaScript practice</summary>
 
-This path is designed for you to practice HTML, CSS, and basic JavaScript. 
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| Payment UI | Beginner |  HTML, CSS, JS | https://github.com/Kyl67899/paymentSuccessfulUI | https://kyl67899.github.io/paymentSuccessfulUI/
-| Eye Follow UI | Beginner |  HTML, CSS, JS | https://kyl67899.github.io/EyeFollowUI | https://github.com/Kyl67899/EyeFollowUI
-| BookProfilepage | Beginner |  HTML and CSS | 
-| Blog-card | Beginner | HTML and CSS | 
-| CardsUI | Beginner | HTML and CSS | 
-| ContactFormUI | Beginner | HTML and CSS | 
-| Crowdfundings | Beginner | HTML and CSS | 
-| Newsletter | Beginner | HTML and CSS | 
-| PaymentLandingPage | Beginner | HTML and CSS | 
-| PortfolioUI | Beginner | HTML and CSS | 
-| PortfolioUI2 | Beginner | HTML and CSS | 
-| Productinfo | Beginner | HTML and CSS | 
-| SaaSUI | Beginner | HTML and CSS | https://saaas-landing-page.vercel.app
-| WeatherAppUI | Beginner | HTML and CSS | 
-
-# Web Development Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/stripe-clone-landing-page'> Strip Clone Landing Page </a>                                 | Mid            | Next, React, Tailwindcss, shadnui, Framer motion   | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/Backend_Todo'> Todo app </a>                                 | Mid            | HTML, CSS, MongoDB, JS     | `In Progress`
-| <a class="link" href='#'> Summarist app </a>                                 | Mid            | Next, Firebase, Materialui, Tailwindcss, HTML, CSS, TS    | `In Progress`
-| <a class="link" href='https://electricalwebsite.vercel.app'> Power Pro Electrical </a>              | Mid            | Next, Tailwindcss, resend, HTML, CSS, Firebase     | `Completed`
-| <a class="link" href='#'> Library App </a>                                   | Mid            | React, CSS, HTML                | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-web'> Web Development </a>    | Mid            | React, Materialui, Tailwindcss, JS, Firebase | `Completed`
-| <a class="link" href="https://recipe--page.vercel.app">Recipe App</a>                  | Mid                 | API, React, tailwindcss, JS     | `Completed`
-| <a class="link" href='https://thebikestore.vercel.app'> Bike Store </a>                                    | Mid            | React, CSS, HTML, Firebase      | `Completed` 
-| <a class="link" href='https://twitterclone-project.vercel.app'> Twitter Clone </a>                                 | Mid            | Next, materialui, Tailwindcss, JS, Firebase | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `Completed`
-| <a class="link" href='#'> Coming Soon Page </a>                              | Junior       | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | html, css     | `Completed`
-| <a class="link" href='https://blog-card-profile.vercel.app'> Blog Card </a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
-| <a class="link" href='https://contactformmain.netlify.app'> Contact Form </a>                                 | Junior            | HTML, CSS, JS    | `Completed`
-| <a class="link" href='https://tip-calc12.vercel.app'> Tip Calculator </a>                                | Junior         | HTML, CSS, JS                   | `Completed`
-| <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>                          | Junior       | HTML, CSS, JS                   | `Completed`
-
-<!-- | <a href=''> E-Commerce                                   | Senior            | Next, Tailwindcss, JS, Firebase | 
-| <a href=''> Netflix Clone                                | Mid            | Next, Tailwindcss, JS, Firebase           | 
-| <a href=''> Nike Clone                                   | Mid            | React, Tailwindcss, JS, Firebase           | 
-| <a href=''> Spotify Clone                                | Mid            | Next, Tailwindcss, MaterialUI, JS, Firebase           | 
-| <a href=''> Expense tracker Dashboard with login         | Senior         | Next, Tailwindcss, MaterialUI, JS, Express.js, MongoDB, web3auth           | 
-| <a href=''> Weather Dashboard App                        | Senior         | Next, Tailwindcss, JS, express.js, MongoDB | 
-| <a href=''> Full-stack airbnb App                        | Senior         | Next, Tailwindcss, JS, materialui, express.js, AWS, MongoDB | 
- | <a href=''> Expense Tracker                             | Beginner       | HTML, CSS, JS                   |
-| <a href=''> Time tracker                                 | Beginner       | HTML, CSS, JS                   | 
-| <a href=''> Tip Calculator                               | Junior         | Next, express.js, MongoDB, firebase, tailwindcss, materialui | 
-| <a href=''> Pricing Com App                              | Junior         | HTML, CSS                       | 
-| <a href=''> Calculator                                   | Junior         | HTML, CSS, JS                   |
-| <a href=''> Weather Data visualization App               | Mid            | Next, Tailwindcss, materialui, MongoDB, JS, D3.js    | -->
-
-<!--- ** Data Visualization using D3.js ** --->
-<!--- ** Weather Data Visualization using D3.js and Machine Learning ** 
-
-# Data Sciece and psychoogy projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Iris Flower </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Stock Market Prediction </a> | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Global Terrorism </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Sales </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> HR </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Meriskill_Data_Analysis_intern'> Diabetes </a>              | Beginner | Python, ML algorithm | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/lgmvip-data-science'> Music Recommendations </a>              | Medium | Python, ML algorithm    | `In Progress`
-
-
-| <a class="link" href='#'> Tornado Analysis </a>                     | Mid                 | Python, ML, KNN, Decision tree, Seaborn, pandas,   
-| <a class="link" href='#'> Wind Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas    
-| <a class="link" href='#'> Hail Analysis </a>                        | Begineer            | Python, ML, KNN, Decision tree, Seaborn, pandas
--->
-
-# Extern: Wayfair Internship - AI Automation with N8N
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| AI Moodboard Agent | 
-| Consumer Trend Discovery AI Agent |
-| Competitor Monitoring AI Agent |
-| AI Insight & Content Agent | 
-| Final Project: Video to Presentation and Conclusion | 
-
-# Extern: Amazon Internship - Data Science
-| Project Name | Level | Recommended tech | Link/Status
-| --- | --- | --- | --- |
-| Clean Up Glassdoor Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Amazon Fulfillment Center reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/162WN9Mm23klcfs-WIw0IGr28bf0i8Aqw?usp=sharing
-| Clean Up Youtube Reviews Using Python | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing | https://colab.research.google.com/drive/14SWPViFuHzFj9Qj6Keemkrqbx-WmPH7h?usp=sharing
-| Final Project | Intermediate | Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, google slide | 
-Video to Presentation and Conclusion | intermediate |  Google Colab, Python, load, explore, and clean a real dataset of Youtube reviews, Pandas to organize messy feedback and get it ready for meaningful analysis, using text preprocessing, Google Slide | https://www.loom.com/share/db79ea8fd2c94defbbd08b2d7b05ee06
-
-# Extern: Outmation Internship - Data Science
-| Project Name | Level | Recommended tech | Link/Status
-| --- | --- | --- | --- |
-| Project Name | Level | Recommended Tech | Link/Status | Intermediate | Google Colab for experimentation and collaboration, Python for scripting and data processing
-| Scanned Document Images Preprocessor (Project 2) | Intermediate |  Google Colab for experimentation and collaboration, PyMuPDF, pdfplumber for PDF parsing
-| Document Parser (Project 3) | Intermediate | Google Colab for experimentation and collaboration OCR Engines: Tesseract, PaddleOCR, EasyOCR, OpenCV, PIL for image preprocessing
-| Retrieval-Augmented Generation (RAG) Pipeline (Project 5) | Intermediate | Google Colab for experimentation and collaboration LlamaIndex, FAISS, or Chroma for vector-based retrieval | https://youtu.be/WjFtTYO5kzc
-| split_and_route() Pipeline (Project 7) | Intermediate | Google Colab for experimentation and collaboration Gemini API and open-source LLMs (Mistral, Phi-2) | 
-| Working UI/Command-line Search Layer (Project 8) | Intermediate | Google Colab for experimentation and collaboration, Streamlit or Gradio for optional user interface
-Final Report & Reflection Document | Advanced | Google Gemini, OpenAI, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
-
-# Other Projects I Worked on During the Externship
-| Project Name | Level | Recommended tech | Link/Status
-| --- | --- | --- | --- |
-| Recipe Helper Bot | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
-| Airport Flight Assistant with Real-Time Information | intermediate | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo: https://b630a486424d350548.gradio.live/ | PowerPoint: https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing | Quick Video: https://youtube.com/shorts/olcgbU0PnBM?feature=share
-| Multi-Doc Intelligence Hub | Advanced | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Quick Video: 
-| Real Estate AI Intelligence Document Assistant | Advanced | Google Gemini, Gradio, OCR, easyPDF | Check out the live demo:  | PowerPoint:  | Demo Video: 
-
-# DataCamp
-<a href="https://www.datacamp.com/portfolio/csdevfe">Data Camp Portfolio</a>
-
-# LetsGrowMore - Data Science
-____________________________________________________________________________________________________
-
-This repository was made to maintain all task during the virtual internship. The 4 tasks were completed with Python.
-
-### Iris Classification using Machine learning
-  Video: <a href="https://youtu.be/z6QZrVJBcMk"> Video </a>
- 
-  Slide: <a href="https://github.com/Kyl67899/lgmvip-data-science">Iris Analysis</a>
-### Stock Market prediction and forecasting using stack LSTM
-  Video: <a href="https://www.youtube.com/watch?v=pfHUPqNPlaI&t=8s"> Video </a>
-  
-  Slide: <a href="https://github.com/Kyl67899/lgmvip-data-science">Stock Market Analysis</a>
-  
-### Exploratory Data Analysis on Dataset - Terrorism
-  Video: <a href="https://github.com/Kyl67899/lgmvip-data-science">Iris Analysis</a>
-  
-  Slide: <a href="https://docs.google.com/presentation/d/12oy78qNqJVNbletwRlaEH8_csYeMlpoO1KtTyXGwsI0/edit?usp=sharing">Terrorism Analysis</a>
-
-<!--- ![image](https://github.com/Kyl67899/lgmvip-data-science/assets/35744262/8b2336d3-4c08-4947-a286-26ef321982da) ---> 
-
-Visit the Web Development part of this internship
-
-https://github.com/Kyl67899/lgmvip-web
-
-# Java Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href=''> Todo App </a>              | Beginner            | Java      | `In Progress`
-| <a class="link" href=''> Calculator </a>              | Beginner            | Java    | `In Progress`
-| <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | Java | `In Progress`  
-| <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | Java, springboot, React, JS, Bootstrap | `In Progress`
-
-<!---
-# C++ Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href=''> Todo App </a>              | Beginner            | C++      | `In Progress`
-| <a class="link" href=''> Calculator </a>              | Beginner            | C++    | `In Progress`
-| <a class="link" href='#'> Temperature Converter </a>                     | Beginner                 | C++ | `In Progress`  
-| <a class="link" href='#'> ECommerce Web Application </a>                        | Advanced            | C++ | `In Progress`
---->
-
-# Current learning:
-
-Project challenges from <a href="https://www.frontendmentor.io/profile/Kyl6789">Frontend Mentor<a/>
-<br />
-Completed so far:
-
-# Frontend Mentor Web Development Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href='recipehub.dev'>FullStack Recipe</a>                                 | Gru            | Next, API, Firebase, Tailwindcss, HTML, CSS, web security, using Python to analyze the food (computer vision, OCR layout, image processing, and ML/AI)     | `In Progress`
-| <a class="link" href='https://recipe--page.vercel.app'>Recipe App</a>                                 | Mid            | React, API, Tailwindcss, HTML, CSS    | `Completed`
-| <a class="link" href='#'>Todo App</a>              | Junior           | HTML, CSS, Next, Firebase, Tailwindcss      | `In Progress`
-| <a class="link" href='#'>Time Tracker Dashboard</a>              | Junior            | HTML, CSS, Tailwindcss, Firebase, JS      | `In Progress`
-| <a class="link" href='#'>E-Commerce Product</a>              | Junior            | HTML, CSS, JS      | `In Progress`
-| <a class="link" href='#'>Crowd Funding</a>              | Junior            | HTML, CSS, JS      | `In Progress`
-| <a class="link" href='https://github.com/Kyl67899/Testimonials_grid_section'> Testimonials grid section </a>                                 | Junior            | HTML, CSS,    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/4CardFeature'> Four Card Feature </a>              | Junior           | HTML, CSS     | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/ProductCard'>Product Card</a>              | Junior           | HTML, CSS      | `Completed`
-| <a class="link" href='https://blog-card-profile.vercel.app/'>Blog Card</a>                                 | Junior            | HTML, CSS, JS, Tailwindcss    | `Completed`
-| <a class="link" href='https://contactformmain.netlify.app'>Contact Form</a>              | Junior            | HTML, CSS, JS      | `Completed`
-| <a class="link" href='#'>QR Code</a>              | Junior            | React, bootstrap, html, CSS      | `Completed`
-| <a class="link" href='https://sociallinkprofile.vercel.app'>Social Media Profile</a>    | Junior            | React, Tailwindcss, JS | `Completed` 
-| <a class="link" href='https://tip-calc12.vercel.app'>Tip Caluclator</a>                                | Junior         | HTML, CSS, JS                   | `Completed`
-
-Vist <a href="https://github.com/Kyl67899/FrontEnd-Mentor">Frontend Mentor Repo</a> for updated completed challenges
-
-# EXPO (ANDROID/IOS) Project
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| Weather APP | Intermedidate | React-Native | Not in production | https://github.com/Kyl67899/Weather_App_expo
-| SafeRide APP | Advanced | React-Native, database: appwrite, expo, tailwindcss, shadnui | Not in production | https://github.com/Kyl67899
-| Intelligent Document AI Agent App (Flight, food, OCR documentation) | Advanced | Android: kotlin, IOS: xcode or swift; Frontend: React-Native, Python (Flask), OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service,  Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
-| Food App (Food, OCR, computer vision) | Advanced | Frontend: React-Native, OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service, Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
-| Coder Remind App (Monitors coders health with Apple, Samsung, Google, LGe health) | Advanced | Frontend: React-Native, OCR: pyMuPDF, EasyPDF, Tesseract (fallback for OCR), Anthrophic LLM (Claude, Gemini, Local LLM), Storage: local, appwrite, or s3 cloud service, Database: appwrite, expo, tailwindcss, ShadnUI | Not in production | 
-
-# Contra/Twine Web Development Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| Milan-Pole-Dance-Studio-Page-Redesign | Wordpress | 
-| Lawn Care Service | Wordpress |  https://lawn-care-service.vercel.app
-| Safe Ride Share landing page and APP | Wordpress | 
-| Yoga Website | Wordpress |  https://yoga-studio-website-green.vercel.app
-| Elite Cuts Barbershop | Wordpress | https://barbershop-jb1k.vercel.app
-| Breeze Tech HVAC | Wordpress | https://breeze-tech-hvac.vercel.app
-| Construction Co | Wordpress | https://construction-website-livid.vercel.app
-| Electrical Website | Wordpress | https://electricalwebsite.vercel.app
-| Meridian Apartment | Wordpress | https://luxary-apartmentv2.vercel.app
-| FreshPineGreen | Wordpress | 
-| Electrical Ecommerce Store using Shopify |
-| Blog website using headless Wordpress | 
-| Zanboni Lighting Resdesign | Custom code | https://zaniboni-lightning.vercel.app
-| Turbo Glass Car Wash Resdesign | Wordpress | https://turboglass.vercel.app
-| Myna Ecommerce Website | Wordpress | https://myna-ecommerce-app.vercel.app
-| DJ Ticket System Website | Wordpress | https://spinticket.vercel.app
-| Dental Smile Studio  | Wordpress | https://clearsmilestudio.vercel.app
-| Soleil Tanning Studio | Wordpress | https://tanning-studiio.vercel.app
-
-# Major League Hackathon
-| Project Name | Level | Recommended Tech | Link/status
-| --- | --- | --- | --- |
-| Amazon FireTV App | Advanced |  Not in Production
-| YouCamAPI eCommerce | Advanced | Fullstack, OCR, Computer Visions, etc | Not in production 
-| NFL Big Data Hackathon Kaggle | Advanced | data science, tableau, python, google colab | github, doc, live stream in parts coming soon
-
-# Illnois Tech Web Development Projects
-
-| Project Name | Level | Recommended Tech | Link/Status
-| --- | --- | --- | --- |
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab1'>Lab1 - Basic of HTML</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab2'>Lab2 - Sematic HTML, list, other tags</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab3'>Lab3 - Basic page markup and tables tags</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab4'>Lab4 - Putting everything together (nav, div, tables, other tags)</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab5'>Lab5 - HTML Form</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://kyl67899.github.io/webDev_Project1/index.html'>Project 1 - Basic HTML Project</a> | Beginner            | HTML    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab6'>Lab6 - CSS style</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/Web_Lab7'>Lab7 - Style an HTML Table</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab8'>Lab8 - Added sidebar and nav</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webDev_Project2'>Project 2 - Added CSS to Project 1</a> | Beginner            | HTML, CSS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webdev_lab9'>Lab9 - Basic of JS</a> | Junior            | HTML, CSS, JS    | `Completed`
-| <a class="link" href='https://github.com/Kyl67899/webDev_Project3'>Project 3 - Added JS, bootstrap, and made responsive to Project 1 & 2</a> | Junior   | HTML, CSS, JS, API, bootstrap    | `Completed`
-
-<!--- # Freelancing
-<a href="https://www.freelancer.com/get/kparsotan?f=give">Freelancer</a>
-<a href="https://www.upwork.com/freelancers/~0154db529bc2946058">Upwork<a/>
-
-# Top Stack:
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyl67899&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
- --->
-
-
-<!--- # Work Experience
-
-Freelancer, Upwork, Jan. 2024 - Present 
-
-Web Development and data analysis Intern, LetsGrowMore, March 2024 - Present
-
-Software Developer Intern, Lillup, Nov. 2023 - Jan. 2024
-
-Front-End Web Developer Intern, FrontEnd Simplified, Oct. 2023 - Nov. 2023
 <br />
 
-IT Specialist, Apex Systems, May - October 2023 --->
+| Project | Stack | Link |
+| --- | --- | --- |
+| Payment UI | HTML, CSS, JS | [Live](https://kyl67899.github.io/paymentSuccessfulUI/) · [Repo](https://github.com/Kyl67899/paymentSuccessfulUI) |
+| Eye Follow UI | HTML, CSS, JS | [Live](https://kyl67899.github.io/EyeFollowUI) · [Repo](https://github.com/Kyl67899/EyeFollowUI) |
+| SaaS UI | HTML, CSS | [Live](https://saaas-landing-page.vercel.app) |
+| Book Profile Page | HTML, CSS | — |
+| Blog Card | HTML, CSS | — |
+| Cards UI | HTML, CSS | — |
+| Contact Form UI | HTML, CSS | — |
+| Crowdfunding | HTML, CSS | — |
+| Newsletter | HTML, CSS | — |
+| Payment Landing Page | HTML, CSS | — |
+| Portfolio UI | HTML, CSS | — |
+| Portfolio UI 2 | HTML, CSS | — |
+| Product Info | HTML, CSS | — |
+| Weather App UI | HTML, CSS | — |
 
-<!---  # Education:
-Coursera Frontend Developer to Fullstack Developer, 2024 - Present
+</details>
 
-EdX IBM Data Science and Machine Learning using Python and SQL, 2024 - Present
+### Frontend Mentor
+
+Challenges from my [Frontend Mentor profile](https://www.frontendmentor.io/profile/Kyl6789). The full, up-to-date set lives in the [Frontend Mentor repo](https://github.com/Kyl67899/FrontEnd-Mentor).
+
+| Project | Stack | Status | Link |
+| --- | --- | --- | --- |
+| Recipe App | React, REST API, Tailwind CSS | Completed | [Live](https://recipe--page.vercel.app) |
+| Social Media Profile | React, Tailwind CSS, JavaScript | Completed | [Live](https://sociallinkprofile.vercel.app) |
+| QR Code | React, Bootstrap, CSS | Completed | — |
+| Blog Card | HTML, CSS, JavaScript, Tailwind CSS | Completed | [Live](https://blog-card-profile.vercel.app/) |
+| Contact Form | HTML, CSS, JavaScript | Completed | [Live](https://contactformmain.netlify.app) |
+| Tip Calculator | HTML, CSS, JavaScript | Completed | [Live](https://tip-calc12.vercel.app) |
+| Testimonials Grid Section | HTML, CSS | Completed | [Repo](https://github.com/Kyl67899/Testimonials_grid_section) |
+| Four Card Feature | HTML, CSS | Completed | [Repo](https://github.com/Kyl67899/4CardFeature) |
+| Product Card | HTML, CSS | Completed | [Repo](https://github.com/Kyl67899/ProductCard) |
+| Todo App | Next.js, Firebase, Tailwind CSS | In progress | — |
+| Time Tracker Dashboard | HTML, CSS, JavaScript, Tailwind CSS, Firebase | In progress | — |
+| E-Commerce Product | HTML, CSS, JavaScript | In progress | — |
+| Crowdfunding | HTML, CSS, JavaScript | In progress | — |
+
+### Client & Freelance Work
+
+Websites built and redesigned for small businesses through Contra and Twine.
+
+| Project | Type | Live |
+| --- | --- | --- |
+| Zaniboni Lighting Redesign | Custom code | [Visit](https://zaniboni-lightning.vercel.app) |
+| Turbo Glass Car Wash Redesign | WordPress | [Visit](https://turboglass.vercel.app) |
+| Myna E-Commerce Website | WordPress | [Visit](https://myna-ecommerce-app.vercel.app) |
+| DJ Ticket System Website | WordPress | [Visit](https://spinticket.vercel.app) |
+| Dental Smile Studio | WordPress | [Visit](https://clearsmilestudio.vercel.app) |
+| Soleil Tanning Studio | WordPress | [Visit](https://tanning-studiio.vercel.app) |
+| Meridian Apartment | WordPress | [Visit](https://luxary-apartmentv2.vercel.app) |
+| Elite Cuts Barbershop | WordPress | [Visit](https://barbershop-jb1k.vercel.app) |
+| Breeze Tech HVAC | WordPress | [Visit](https://breeze-tech-hvac.vercel.app) |
+| Construction Co | WordPress | [Visit](https://construction-website-livid.vercel.app) |
+| Electrical Website | WordPress | [Visit](https://electricalwebsite.vercel.app) |
+| Lawn Care Service | WordPress | [Visit](https://lawn-care-service.vercel.app) |
+| Yoga Website | WordPress | [Visit](https://yoga-studio-website-green.vercel.app) |
+| Milan Pole Dance Studio Page Redesign | WordPress | — |
+| Safe Ride Share Landing Page and App | WordPress | — |
+| FreshPineGreen | WordPress | — |
+| Electrical E-Commerce Store | Shopify | — |
+| Blog Website | Headless WordPress | — |
+
+### Mobile Apps
+
+Cross-platform iOS and Android apps built with Expo and React Native. None are in production yet.
+
+| Project | Stack | Link |
+| --- | --- | --- |
+| Weather App | React Native, Expo | [Repo](https://github.com/Kyl67899/Weather_App_expo) |
+| SafeRide App | React Native, Expo, Appwrite, Tailwind CSS, shadcn/ui | [GitHub](https://github.com/Kyl67899) |
+| Intelligent Document AI Agent App (flights, food, OCR documents) | React Native, Expo, Kotlin, Swift, Python (Flask), PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
+| Food App (OCR, computer vision) | React Native, Expo, PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
+| Coder Remind App (developer health tracking via Apple, Samsung, Google, and LG health data) | React Native, Expo, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
+
+### AI & Document Intelligence
+
+| Project | Stack | Links |
+| --- | --- | --- |
+| Recipe Helper Bot | Google Gemini, Gradio, OCR, EasyPDF | [Demo](https://b630a486424d350548.gradio.live/) · [Slides](https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing) · [Video](https://youtube.com/shorts/olcgbU0PnBM?feature=share) |
+| Airport Flight Assistant with Real-Time Information | Google Gemini, Gradio, OCR, EasyPDF | [Demo](https://b630a486424d350548.gradio.live/) · [Slides](https://docs.google.com/presentation/d/1Cup9Ne0TSRB-ulvyKyAfZ-1GRFsFCv9y6xIuUgEe3rg/edit?usp=sharing) · [Video](https://youtube.com/shorts/olcgbU0PnBM?feature=share) |
+| Multi-Doc Intelligence Hub | Google Gemini, Gradio, OCR, EasyPDF | — |
+| Real Estate AI Intelligence Document Assistant | Google Gemini, Gradio, OCR, EasyPDF | — |
+
+### Data Science & Machine Learning
+
+**LetsGrowMore virtual internship** — all tasks completed in Python. [Repo](https://github.com/Kyl67899/lgmvip-data-science)
+
+| Project | Method | Links |
+| --- | --- | --- |
+| Iris Classification | Machine learning classification | [Video](https://youtu.be/z6QZrVJBcMk) · [Repo](https://github.com/Kyl67899/lgmvip-data-science) |
+| Stock Market Prediction and Forecasting | Stacked LSTM | [Video](https://www.youtube.com/watch?v=pfHUPqNPlaI&t=8s) · [Repo](https://github.com/Kyl67899/lgmvip-data-science) |
+| Global Terrorism Dataset | Exploratory data analysis | [Slides](https://docs.google.com/presentation/d/12oy78qNqJVNbletwRlaEH8_csYeMlpoO1KtTyXGwsI0/edit?usp=sharing) · [Repo](https://github.com/Kyl67899/lgmvip-data-science) |
+
+More analysis work: [DataCamp portfolio](https://www.datacamp.com/portfolio/csdevfe)
+
+### Externships
+
+#### Wayfair — AI Automation with n8n
+
+| Project | What it does |
+| --- | --- |
+| AI Moodboard Agent | Generates moodboards with an n8n AI agent |
+| Consumer Trend Discovery AI Agent | Surfaces consumer and market trends and writes a trend report |
+| Competitor Monitoring AI Agent | Tracks competitor listings and produces a competitor report |
+| AI Insight & Content Agent | Turns the trend and competitor reports into insights and a content strategy |
+| Final Project | Video presentation and conclusion |
+
+#### Amazon — Data Science
+
+Python, Pandas, and text preprocessing in Google Colab.
+
+| Project | What it does | Link |
+| --- | --- | --- |
+| Clean Up Glassdoor Reviews | Loads, explores, and cleans a real dataset of Amazon Fulfillment Center reviews | [Colab](https://colab.research.google.com/drive/162WN9Mm23klcfs-WIw0IGr28bf0i8Aqw?usp=sharing) |
+| Clean Up YouTube Reviews | Loads, explores, and cleans a real dataset of YouTube reviews | [Colab](https://colab.research.google.com/drive/14SWPViFuHzFj9Qj6Keemkrqbx-WmPH7h?usp=sharing) |
+| Final Project | Full analysis with a Google Slides presentation | — |
+| Video Presentation and Conclusion | Recorded walkthrough of the final project | [Loom](https://www.loom.com/share/db79ea8fd2c94defbbd08b2d7b05ee06) |
+
+#### Outmation — Data Science
+
+A document-intelligence pipeline built in Google Colab, from PDF parsing through retrieval and search.
+
+<!-- TODO: add the title of Project 1 (Google Colab, Python scripting and data processing) -->
+
+| Project | Stack | Link |
+| --- | --- | --- |
+| Scanned Document Images Preprocessor (Project 2) | PyMuPDF, pdfplumber | — |
+| Document Parser (Project 3) | Tesseract, PaddleOCR, EasyOCR, OpenCV, PIL | — |
+| Retrieval-Augmented Generation Pipeline (Project 5) | LlamaIndex, FAISS, Chroma | [Video](https://youtu.be/WjFtTYO5kzc) |
+| `split_and_route()` Pipeline (Project 7) | Gemini API, Mistral, Phi-2 | — |
+| Working UI / Command-Line Search Layer (Project 8) | Streamlit, Gradio | — |
+| Final Report & Reflection | Google Gemini, OpenAI, Gradio, OCR, EasyPDF | — |
+
+### Hackathons
+
+| Project | Stack | Status |
+| --- | --- | --- |
+| Amazon Fire TV App | — | Not in production |
+| YouCam API E-Commerce | Full-stack, OCR, computer vision | Not in production |
+| NFL Big Data Hackathon (Kaggle) | Python, Tableau, Google Colab | Write-up and repo coming soon |
+
+### Java
+
+| Project | Stack | Status |
+| --- | --- | --- |
+| E-Commerce Web Application | Java, Spring Boot, React, JavaScript, Bootstrap | In progress |
+| Todo App | Java | In progress |
+| Calculator | Java | In progress |
+| Temperature Converter | Java | In progress |
+
+### Coursework & Early Work
+
+<details>
+<summary><strong>Illinois Tech — Web Development (9 labs, 3 projects)</strong></summary>
+
 <br />
-EdX IBM React Developer, 2023 - 2024
+
+| Assignment | Stack | Link |
+| --- | --- | --- |
+| Project 3 — JavaScript, Bootstrap, and responsive layout added to Projects 1 & 2 | HTML, CSS, JS, API, Bootstrap | [Repo](https://github.com/Kyl67899/webDev_Project3) |
+| Project 2 — CSS added to Project 1 | HTML, CSS | [Repo](https://github.com/Kyl67899/webDev_Project2) |
+| Project 1 — Basic HTML project | HTML | [Live](https://kyl67899.github.io/webDev_Project1/index.html) |
+| Lab 9 — Basics of JavaScript | HTML, CSS, JS | [Repo](https://github.com/Kyl67899/webdev_lab9) |
+| Lab 8 — Sidebar and navigation | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab8) |
+| Lab 7 — Styling an HTML table | HTML, CSS | [Repo](https://github.com/Kyl67899/Web_Lab7) |
+| Lab 6 — CSS styling | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab6) |
+| Lab 5 — HTML forms | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab5) |
+| Lab 4 — Putting it together (nav, div, tables) | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab4) |
+| Lab 3 — Page markup and tables | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab3) |
+| Lab 2 — Semantic HTML and lists | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab2) |
+| Lab 1 — Basics of HTML | HTML, CSS | [Repo](https://github.com/Kyl67899/webdev_lab1) |
+
+</details>
+
+<details>
+<summary><strong>Bootstrap Studio projects (3)</strong></summary>
+
 <br />
-EdX IBM Software Engineering, 2023 - 2024
+
+| Project | Tool | Status |
+| --- | --- | --- |
+| First Portfolio | Bootstrap Studio | Completed |
+| Portfolio v2 | Bootstrap Studio | In progress |
+| E-Commerce | Bootstrap Studio | In progress |
+
+</details>
+
+<details>
+<summary><strong>Dreamweaver CS6 and Photoshop projects (2)</strong></summary>
+
 <br />
-EdX IBM Web Development, 2023 
 
-FrontEnd Simplified Student, Aug. 2023 - Jan. 2024
+| Project | Tool | Status |
+| --- | --- | --- |
+| First Portfolio | Dreamweaver CS6 | Completed, no longer live |
+| History Class Project | Dreamweaver CS6 | Completed, no longer live |
 
-CUNY QCC Software Engineering and AWS, July 2023 - Jan. 2024 --->
+</details>
 
-# 📊GitHub Stats:
+---
+
+## GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyl67899&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-
-[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)
-
-<!--  ![Kyle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kyl67899&show_icons=true)
-![kyl67899's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyl67899&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![kyl67899's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyl67899&theme=vue-dark&hide_border=true) --->
+[![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
