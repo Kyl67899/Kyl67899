@@ -153,14 +153,14 @@ Websites built and redesigned for small businesses through Contra and Twine.
 
 ### Mobile Apps
 
-Cross-platform iOS and Android apps built with Expo and React Native. None are in production yet.
+Cross-platform IOS and Android apps built with Expo and React Native. None are in production yet.
 
 | Project | Stack | Link |
 | --- | --- | --- |
 | Weather App | React Native, Expo | [Repo](https://github.com/Kyl67899/Weather_App_expo) |
 | SafeRide App | React Native, Expo, Appwrite, Tailwind CSS, shadcn/ui | [GitHub](https://github.com/Kyl67899) |
-| Intelligent Document AI Agent App (flights, food, OCR documents) | React Native, Expo, Kotlin, Swift, Python (Flask), PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
-| Food App (OCR, computer vision) | React Native, Expo, PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
+| Intelligent Document AI Agent App (flights, food, OCR documents) | React Native, Expo, Python (Flask), PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
+| Food App (OCR, computer vision) | React Native, Expo, PyMuPDF, EasyPDF, Tesseract, LLMs (Claude, Gemini, local), Appwrite, AWS S3 | — |
 | Coder Remind App (developer health tracking via Apple, Samsung, Google, and LG health data) | React Native, Expo, LLMs (Claude, Gemini, local), Appwrite, S3 | — |
 
 ### AI & Document Intelligence
@@ -186,15 +186,15 @@ More analysis work: [DataCamp portfolio](https://www.datacamp.com/portfolio/csde
 
 ### Externships
 
-#### Wayfair — AI Automation with n8n
+#### Wayfair — AI Automation with N8N
 
 | Project | What it does |
 | --- | --- |
-| AI Moodboard Agent | Generates moodboards with an n8n AI agent |
-| Consumer Trend Discovery AI Agent | Surfaces consumer and market trends and writes a trend report |
-| Competitor Monitoring AI Agent | Tracks competitor listings and produces a competitor report |
-| AI Insight & Content Agent | Turns the trend and competitor reports into insights and a content strategy |
-| Final Project | Video presentation and conclusion |
+| AI Moodboard Agent | Generates moodboards with an n8n AI agent | — |
+| Consumer Trend Discovery AI Agent | Surfaces consumer and market trends and writes a trend report | — |
+| Competitor Monitoring AI Agent | Tracks competitor listings and produces a competitor report | — |
+| AI Insight & Content Agent | Turns the trend and competitor reports into insights and a content strategy | — |
+| Final Project | Video presentation and conclusion | — |
 
 #### Amazon — Data Science
 
