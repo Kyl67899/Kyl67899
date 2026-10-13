@@ -229,7 +229,7 @@ A document-intelligence pipeline built in Google Colab, from PDF parsing through
 | Amazon Fire TV App | — | Not in production |
 | YouCam API E-Commerce | Full-stack, OCR, Computer Vision | Not in production |
 | NFL Big Data Hackathon (Kaggle) | Python, Tableau, Google Colab | Write-up and repo coming soon |
-| AI Tableau Interactive Dashboard | Claude, LLM, Python, any files | [AI Tableau Interactive Dashboard|](https://claude.ai/artifact/CFi73QLki7GnwYkZpUYAFq)
+| AI Tableau Interactive Dashboard | Claude, LLM, Python, any files | https://claude.ai/artifact/CFi73QLki7GnwYkZpUYAFq
 
 ### Java
 
