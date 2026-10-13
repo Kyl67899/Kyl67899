@@ -227,8 +227,9 @@ A document-intelligence pipeline built in Google Colab, from PDF parsing through
 | Project | Stack | Status |
 | --- | --- | --- |
 | Amazon Fire TV App | — | Not in production |
-| YouCam API E-Commerce | Full-stack, OCR, computer vision | Not in production |
+| YouCam API E-Commerce | Full-stack, OCR, Computer Vision | Not in production |
 | NFL Big Data Hackathon (Kaggle) | Python, Tableau, Google Colab | Write-up and repo coming soon |
+| AI Tableau Interactive Dashboard | Claude, LLM, Python, any files | Write-up and repo coming soon |
 
 ### Java
 
