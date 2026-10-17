@@ -183,6 +183,7 @@ Cross-platform IOS and Android apps built with Expo and React Native. None are i
 | Global Terrorism Dataset | Exploratory data analysis | [Slides](https://docs.google.com/presentation/d/12oy78qNqJVNbletwRlaEH8_csYeMlpoO1KtTyXGwsI0/edit?usp=sharing) · [Repo](https://github.com/Kyl67899/lgmvip-data-science) |
 
 More analysis work: [DataCamp portfolio](https://www.datacamp.com/portfolio/csdevfe)
+More analysis work: [AI Planet portfolio](https://github.com/Kyl67899/AI_Planet_2022)
 
 ### Externships
 
