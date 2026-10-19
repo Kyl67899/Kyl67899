@@ -9,6 +9,8 @@ I build and ship web apps with React and Next.js, and I'm growing into backend s
 <a href="https://www.linkedin.com/in/kyle-parsotan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="https://www.kylepprofile.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://form.typeform.com/to/gU78ojh6"><img src="https://img.shields.io/badge/Hire%20Me-2EA44F?style=for-the-badge" alt="Hire Me" /></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vQej1tFEVx-qSS3idFTs-wVWRHesxqv8DzFAQrKXDsOUjxBByRaTRhYhw2iNjYO2A/pub"><img src="https://img.shields.io/badge/Hire%20Me-2EA44F?style=for-the-badge" alt="Professional Resume" /></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRZtZ_jAxcMHCpKhCkRVN6Bon7FpZfSeSYsI7DFLOJfU-MuuavSTM27airJbomIkdVG3IGsukFHXJQI/pub"><img src="https://img.shields.io/badge/Hire%20Me-2EA44F?style=for-the-badge" alt="Freelancer Resume" /></a>
 
 </div>
 
@@ -17,8 +19,8 @@ I build and ship web apps with React and Next.js, and I'm growing into backend s
 ## About
 
 - **Open to:** entry-level Web Developer, Software Engineer, and Frontend / Full-Stack Developer roles, plus freelance and open-source work
-- **Proficient in:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, shadcn/ui, MUI, Firebase, MongoDB, Python, SQL
-- **Currently learning:** Java, backend engineering, machine learning, and data science
+- **Proficient in:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Bootstrap, shadcn/ui, MUI, Firebase, MongoDB, Python, SQL
+- **Currently learning:** Java, backend Engineering, Machine Learning, Data Science, Electron.js (desktop application), React-Native
 
 ## Tech Stack
 
