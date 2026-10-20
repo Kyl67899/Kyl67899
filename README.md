@@ -299,3 +299,4 @@ A document-intelligence pipeline built in Google Colab, from PDF parsing through
 [![GitHub Streak](https://streak-stats.demolab.com?user=kyl67899&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Hackatime](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=73048&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/kyl67899?variant=strip)](https://ghfind.com/u/kyl67899?ref=badge)
